@@ -20,8 +20,8 @@ Looking to level up, find new weapons, use items, and instantly earn $REN? You'l
 
 Have great weapons and want to go all in on getting $REN? _Bloodthirst_ is for you.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="bloodthirst.md" %}
+[bloodthirst.md](bloodthirst.md)
 {% endcontent-ref %}
 
 Want to level up faster, earn rare gear, and add more utility to your Elves?
