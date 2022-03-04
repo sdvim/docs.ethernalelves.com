@@ -14,21 +14,31 @@ Earn $REN upfront based on Sentinel weapon tiers.
 
 ### Rewards
 
+$REN earned is proportional to a Sentinel's weapon tier.
+
 |        |          |
 | ------ | -------- |
 | Tier 3 | 80 $REN  |
 | Tier 4 | 95 $REN  |
 | Tier 5 | 110 $REN |
 
-### Completion time
+{% hint style="warning" %}
+**Note:** All Sentinels can enter Bloodthirst mode, but only those with strong enough weapons will be rewarded! For Sentinels with weak weapons, consider rerolling through [campaigns](campaigns.md) or [forging](../elves/weapons.md).
+{% endhint %}
+
+### Cooldown time
+
+As expected, weapon tier and class also determines cooldown time for Sentinels.
 
 |        | Druids | Assassins | Rangers |
 | ------ | ------ | --------- | ------- |
-| Tier 3 | 59     | 47        | 40      |
-| Tier 4 | 50     | 41        | 35      |
-| Tier 5 | 44     | 37        | 33      |
+| Tier 3 | 59 h   | 47 h      | 40 h    |
+| Tier 4 | 50 h   | 41 h      | 35 h    |
+| Tier 5 | 44 h   | 37 h      | 33 h    |
 
 #### Instant Kill
+
+Assassins have a chance of instantly slaying creatures, removing attack time from cooldown calculation. If successful, the total cooldown is reduced to 4 hours.
 
 |        | Probability |
 | ------ | ----------- |
@@ -37,6 +47,8 @@ Earn $REN upfront based on Sentinel weapon tiers.
 | Tier 5 | 20%         |
 
 ### $REN over time (Bloodthirst vs Passive)
+
+Below are some comparisons between [Passive](passive.md) staking and Bloodthirst rewards across different tiers. These figures assume the Sentinel is sent back to Bloodthirst as soon as humanly possible, and also does not factor methods of reducing cooldown such as consuming items, healing, Assassin instant kill, and Druid synergizing.
 
 #### Druids
 
