@@ -9,7 +9,7 @@ $REN the in-game utility token can be used to:
 * Mint new [Sentinels](../elves/sentinels.md)
 * Purchase in-game [items](../elves/items.md)
 * Use in-game abilities
-* Enter specific [game modes](../playing/game-modes.md)
+* Enter specific [game modes](../modes/game-modes.md)
 * ...and more
 
 ### **Artifacts**
@@ -18,7 +18,7 @@ Artifacts are the spirit of the Elves which strengthens the Elven universe. With
 
 Once the Elders are released, Artifacts can be used to:
 
-* Mint new [Elders](../elves/elders.md)
+* Mint new [Elders](../elves/elders-wip.md)
 * Learn special abilities
 * ...and unlock more in-game assets to come
 
@@ -26,7 +26,7 @@ Once the Elders are released, Artifacts can be used to:
 
 Tokens are typically consumed for gameplay actions by Sentinels and Elders.
 
-![](../.gitbook/assets/elves-economics.png)
+![](../.gitbook/assets/burning-mechanics.png)
 
 
 

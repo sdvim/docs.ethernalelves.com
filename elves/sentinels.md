@@ -14,17 +14,19 @@ Sentinels are the primary defenders of the homeland. They are found in four diff
 
 ### Stats
 
-Sentinels improve over time and their stats are directly reflective of that. The greatest impact stats have are on calculating [cooldowns ](cooldowns.md)for active game modes.
+Sentinels improve over time and their stats are directly reflective of that.
+
+The greatest impact stats have are on calculating [cooldowns ](cooldowns.md)for active game modes.
 
 #### **Levels**
 
-Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../playing/campaigns.md).
+Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../modes/campaigns.md).
 
 #### Attack points
 
 Attack points (AP) are used to calculate _attack time_ in the cooldown formula.
 
-Equipping Sentinels with stronger weapons increases their attack points.
+Equipping Sentinels with stronger weapons increases attack points.
 
 #### Health points
 
@@ -80,7 +82,7 @@ $$
 #### Automatic Ability: Instant Kill
 
 * Has a chance to instantly slay creatures, removing attack time from cooldown calculation
-* [Bloodthirst](../playing/bloodthirst.md) only
+* [Bloodthirst](../modes/bloodthirst.md) only
 
 ### Rangers
 

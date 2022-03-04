@@ -18,10 +18,10 @@ Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels mint
 
 ### Game Modes for Sentinels
 
-* [**Passive**](../playing/passive.md) **** - earn $REN and level up
-* ****[**Campaigns**](../playing/campaigns.md) - earn $REN, weapons, items, and level up
-* ****[**Bloodthirst**](../playing/bloodthirst.md) - earn $REN and items
-* [**Rampage**](../playing/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
+* [**Passive**](../modes/passive.md) **** - earn $REN and level up
+* ****[**Campaigns**](../modes/campaigns.md) - earn $REN, weapons, items, and level up
+* ****[**Bloodthirst**](../modes/bloodthirst.md) - earn $REN and items
+* [**Rampage**](../modes/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
 * **Crusades** - sacrifice $REN to earn Artifacts to mint Elders and future collections
 
 ### Gasless Gameplay&#x20;
@@ -34,7 +34,7 @@ Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels mint
 
 ## **Chapter 2: Release the Elders**
 
-Initial mint of `????` [Elders](../elves/elders.md) by burning Artifacts.
+Initial mint of [Elders](../elves/elders-wip.md) by burning Artifacts.
 
 ### Play, Earn, Upgrade
 
@@ -46,7 +46,7 @@ Initial mint of `????` [Elders](../elves/elders.md) by burning Artifacts.
 
 #### Elders can enter:
 
-* ****[**Rampage**](../playing/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
+* ****[**Rampage**](../modes/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
 * **Crusades** - sacrifice $REN to earn Artifacts to mint Elders and future collections
 * **Quests** - consume Artifacts to learn special abilities&#x20;
 
