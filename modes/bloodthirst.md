@@ -16,7 +16,7 @@ Earn $REN upfront based on Sentinel weapon tiers.
 
 $REN earned is proportional to a Sentinel's weapon tier.
 
-|        |          |
+| Weapon | Reward   |
 | ------ | -------- |
 | Tier 3 | 80 $REN  |
 | Tier 4 | 95 $REN  |
@@ -30,7 +30,7 @@ $REN earned is proportional to a Sentinel's weapon tier.
 
 As expected, weapon tier and class also determines cooldown time for Sentinels.
 
-|        | Druids | Assassins | Rangers |
+| Weapon | Druids | Assassins | Rangers |
 | ------ | ------ | --------- | ------- |
 | Tier 3 | 59 h   | 47 h      | 40 h    |
 | Tier 4 | 50 h   | 41 h      | 35 h    |
@@ -40,7 +40,7 @@ As expected, weapon tier and class also determines cooldown time for Sentinels.
 
 Assassins have a chance of instantly slaying creatures, removing attack time from cooldown calculation. If successful, the total cooldown is reduced to 4 hours.
 
-|        | Probability |
+| Weapon | Probability |
 | ------ | ----------- |
 | Tier 3 | 10%         |
 | Tier 4 | 15%         |
@@ -52,7 +52,7 @@ Below are some comparisons between [Passive](passive.md) staking and Bloodthirst
 
 #### Druids
 
-|         | Bloodthirsts / day | 7 days   | 30 days   |
+| -       | Bloodthirsts / day | 7 days   | 30 days   |
 | ------- | ------------------ | -------- | --------- |
 | Passive | -                  | 140 $REN | 1200 $REN |
 | Tier 3  | 0.40               | 227 $REN | 976 $REN  |
@@ -61,7 +61,7 @@ Below are some comparisons between [Passive](passive.md) staking and Bloodthirst
 
 #### Assassins
 
-|         | Bloodthirsts / day | 7 days   | 30 days   |
+| -       | Bloodthirsts / day | 7 days   | 30 days   |
 | ------- | ------------------ | -------- | --------- |
 | Passive | -                  | 140 $REN | 1200 $REN |
 | Tier 3  | 0.51               | 286 $REN | 1226 $REN |
@@ -70,7 +70,7 @@ Below are some comparisons between [Passive](passive.md) staking and Bloodthirst
 
 #### Rangers
 
-|         | Bloodthirsts / day | 7 days   | 30 days   |
+| -       | Bloodthirsts / day | 7 days   | 30 days   |
 | ------- | ------------------ | -------- | --------- |
 | Passive | -                  | 140 $REN | 1200 $REN |
 | Tier 3  | 0.60               | 336 $REN | 1440 $REN |
