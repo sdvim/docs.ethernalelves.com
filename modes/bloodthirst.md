@@ -4,7 +4,7 @@ Earn $REN upfront based on Sentinel weapon tiers.
 
 #### Sentinels:
 
-* Enter a after being sent to bloodthirst based on their stats
+* Enter a cooldown period after being sent to bloodthirst based on their weapon tier
 * Can reroll their item for free upon starting bloodthirst
 * Can consume their item upon starting bloodthirst
 
