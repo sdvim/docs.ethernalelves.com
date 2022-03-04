@@ -1,6 +1,6 @@
 # Bloodthirst
 
-Earn $REN upfront based on Sentinel weapon tiers.
+Earn $REN upfront for slaying creatures, based on Sentinel weapon tiers.
 
 #### Sentinels:
 

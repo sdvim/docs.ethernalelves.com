@@ -4,7 +4,7 @@ description: Send out your Sentinels to fight ferocious creatures and defend the
 
 # Campaigns
 
-Earn $REN upfront for slaying creatures. Creatures are always slain by Sentinels.
+Earn $REN upfront, find weapons, and level up for slaying creatures.
 
 #### Sentinels:
 

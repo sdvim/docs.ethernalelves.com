@@ -4,19 +4,16 @@
 This feature is currently in development.
 {% endhint %}
 
-This game mode is where you gain levels. You will also have a chance to upgrade your Sentinel with a chance to acquire accessories, weapons, 1/1s and morphing abilities for Druids.
-
-There will be a base pool for leveling and pools per Sentinel Class\
+Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morphing abilities. There will be a base pool for leveling and pools per Sentinel class.\
 \
-More information coming soon but the three variables below will be important
+More information is coming soon but the three variables below will be important:
 
-* $REN&#x20;
-  * Accumulating $REN will be important as you will need $REN to gain levels and enter into specific pools&#x20;
-* Levels&#x20;
-  * Levels will be important and those who are level 60+ have a decent head start over people below level 60
-* Race&#x20;
-  * Having a Woodborne may give you a higher chance
+* **$REN:** players will need $REN to gain levels and enter into specific pools&#x20;
+* **Levels:** Sentinels who are above level 60+ have a decent head start over those below level 60
+* **Race:** Woodborne may have higher chances at finding higher tier accessories
 
-Accessories will play an important role in future game modes we develop.  It will also strengthen your character in Bloodthirst.&#x20;
+#### Accessories
 
-More info coming soon
+Accessories will play an important role in future game modes we develop.
+
+It will also strengthen your character in [Bloodthirst](bloodthirst.md).
