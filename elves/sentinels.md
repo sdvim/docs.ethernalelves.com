@@ -18,7 +18,7 @@ Sentinels improve over time and their stats are directly reflective of that. The
 
 #### **Levels**
 
-Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../modes/campaigns.md).
+Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../playing/campaigns.md).
 
 #### Attack points
 
@@ -80,7 +80,7 @@ $$
 #### Automatic Ability: Instant Kill
 
 * Has a chance to instantly slay creatures, removing attack time from cooldown calculation
-* [Bloodthirst](broken-reference) only
+* [Bloodthirst](../playing/bloodthirst.md) only
 
 ### Rangers
 

@@ -12,15 +12,15 @@
 ## Elves
 
 * [Sentinels](elves/sentinels.md)
-* [Elders (WIP)](elves/elders-wip.md)
+* [Elders](elves/elders.md)
 * [Cooldowns](elves/cooldowns.md)
 * [Weapons](elves/weapons.md)
 * [Items](elves/items.md)
 
-## Modes
+## Playing
 
-* [Game Modes](modes/game-modes.md)
-* [Passive](modes/passive.md)
-* [Campaigns](modes/campaigns.md)
-* [Bloodthirst](modes/bloodthirst.md)
-* [Rampage](modes/rampage.md)
+* [Game Modes](playing/game-modes.md)
+* [Passive](playing/passive.md)
+* [Campaigns](playing/campaigns.md)
+* [Bloodthirst](playing/bloodthirst.md)
+* [Rampage](playing/rampage.md)
