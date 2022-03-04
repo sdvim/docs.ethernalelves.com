@@ -1,6 +1,6 @@
 # Items
 
-Items are consumables that temporarily boost your Sentinel during [Campaigns](../modes/campaigns.md) or [Bloodthirst](broken-reference).
+Items are consumables that temporarily boost your Sentinel during [Campaigns](../modes/campaigns.md) or [Bloodthirst](../modes/bloodthirst.md).
 
 Items can be acquired in certain game modes by rerolling or purchased from the Merchant.
 
