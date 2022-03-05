@@ -24,6 +24,10 @@ Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels mint
 * [**Rampage**](../modes/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
 * **Crusades** - sacrifice $REN to earn Artifacts to mint Elders and future collections
 
+{% hint style="warning" %}
+**Note:** Crusades for Sentinels will cease to exist after initial mint of Elders. Similar to an initial mint with ETH, then using a Artifacts to mint the remaining supply of Elders.
+{% endhint %}
+
 ### Gasless Gameplay&#x20;
 
 * ****[**Layer 2**](polygon-gameplay.md) - assets remain on Ethereum (Mainnet), gameplay occurs on Polygon
@@ -49,23 +53,3 @@ Initial mint of [Elders](../elves/elders-wip.md) by burning Artifacts.
 * ****[**Rampage**](../modes/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
 * **Crusades** - sacrifice $REN to earn Artifacts to mint Elders and future collections
 * **Quests** - consume Artifacts to learn special abilities&#x20;
-
-{% hint style="warning" %}
-**Note:** Crusades will cease to exist after initial mint of Elders. Similar to an initial mint with ETH, then using a utility token to mint the remaining supply.
-{% endhint %}
-
-## **The future**
-
-* 6,666 Buildings - claimed by Sentinels with $REN
-* 2,222 Land - claimed by Elders with Artifacts
-
-### Play, Earn, Upgrade
-
-* Pledge
-* Artillery
-
-### Game Modes
-
-* **Build** - Construct Buildings with $REN
-* **Pledge** - Pledge $REN on Elders Land, earning fractional Artifacts
-* **Upgrade** - Upgrade Buildings by using Artifacts to improve Artillery and Levels
