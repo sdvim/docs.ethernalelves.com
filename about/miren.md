@@ -30,7 +30,9 @@ Tokens are typically consumed for gameplay actions by Sentinels and Elders.
 
 ![](../.gitbook/assets/burning-mechanics.png)
 
-
+{% hint style="warning" %}
+Note: Crusade times and Artifacts may vary. &#x20;
+{% endhint %}
 
 
 
