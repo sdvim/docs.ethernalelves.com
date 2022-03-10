@@ -11,7 +11,7 @@ Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels mint
 
 ### Play, Earn, Upgrade
 
-* ****[**Miren**](miren.md) ($REN) - in-game utility token used for minting Sentinels, upgrades, and more
+* ****[**Miren**](../economy/miren.md) ($REN) - in-game utility token used for minting Sentinels, upgrades, and more
 * ****[**Weapons**](../elves/weapons.md) - equipment that increases attack points and speeds up certain game modes
 * ****[**Items**](../elves/items.md) - one-time use consumables that provide buffs for certain game modes
 * **Leveling** - increases overall stats of Sentinels

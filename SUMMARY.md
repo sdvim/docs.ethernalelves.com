@@ -4,10 +4,14 @@
 
 * [Storyline](README.md)
 * [Overview](about/overview.md)
-* [Tokenomics](about/miren.md)
 * [Polygon Gameplay](about/polygon-gameplay.md)
 * [Minting](about/minting.md)
 * [FAQ](about/faq.md)
+
+## Game Economy <a href="#economy" id="economy"></a>
+
+* [Tokenomics](economy/miren.md)
+* [Liquidity Pool](economy/liquidity-pool.md)
 
 ## Elves
 
