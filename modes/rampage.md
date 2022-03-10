@@ -10,9 +10,8 @@ Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morph
 
 * Enter a fixed cooldown of 36 hours
 * Level up based on the rampage area they enter
-* Can reroll their weapon for free upon starting a campaign
-* Can reroll their item for free upon starting a campaign
-* Can consume their item upon starting a campaign
+* Can reroll their weapon for free upon starting a rampage
+* Can reroll their item for free upon starting a rampage
 
 #### Accessories
 
@@ -54,3 +53,25 @@ Accessories are upgraded one tier at a time.
 | Hidden Grove     | 20%       | 50%       | 25%     |
 | Tomb of Vitality | 5%        | 30%       | 60%     |
 | Inferno Abyss    | 0%        | 5%        | 90%     |
+
+### Druid Morph Set
+
+You will have the ability to change/morph your Druid avatar in the GUI.
+
+Morph sets will not alter your Druid's image. Instead, it will show an image on the top right of OpenSea or the GUI.
+
+* Minimum level: 99
+* Cost: 5000 $REN
+* Supply: 100
+* Probabilities
+  * 50% Bear
+  * 50% Liger
+
+#### Bear
+
+Increases Attack Points by 30
+
+#### Liger
+
+Decreases Heal cooldown from 12 hours to 4 hours
+
