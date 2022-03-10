@@ -1,19 +1,56 @@
 # Rampage
 
 {% hint style="danger" %}
-This feature is currently in development.
+This feature is currently in development: values are not exact and may be subject to change.
 {% endhint %}
 
-Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morphing abilities. There will be a base pool for leveling and pools per Sentinel class.\
-\
-More information is coming soon but the three variables below will be important:
+Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morphing abilities. There will be a base pool for leveling and pools per Sentinel class.
 
-* **$REN:** players will need $REN to gain levels and enter into specific pools&#x20;
-* **Levels:** Sentinels who are above level 60+ have a decent head start over those below level 60
-* **Race:** Woodborne may have higher chances at finding higher tier accessories
+#### Sentinels:
+
+* Enter a fixed cooldown of 36 hours
+* Level up based on the rampage area they enter
+* Can reroll their weapon for free upon starting a campaign
+* Can reroll their item for free upon starting a campaign
+* Can consume their item upon starting a campaign
 
 #### Accessories
 
-Accessories will play an important role in future game modes we develop.
+Accessories help Sentinels in [Bloodthirst](bloodthirst.md) and play an important role in future game modes.
 
-It will also strengthen your character in [Bloodthirst](bloodthirst.md).
+Accessories are upgraded one tier at a time.
+
+| Accessory Tier | Assassins                                                        | Rangers                                                          |
+| -------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Tier 1         | <p><strong>Cosmetic</strong></p><p>Necklace</p>                  | <p><strong>Cosmetic</strong></p><p>Wristband</p>                 |
+| Tier 2         | <p><strong>Cosmetic</strong></p><p>Necklace &#x26; Wristband</p> | <p><strong>Cosmetic</strong></p><p>Necklace &#x26; Wristband</p> |
+| Tier 3         | <p><strong>Instant Kill</strong></p><p>15% bonus increase</p>    | <p><strong>Attack Points</strong></p><p>15% bonus increase</p>   |
+| Tier 4         | <p><strong>Instant Kill</strong></p><p>25% bonus increase</p>    | <p><strong>Instant Kill</strong></p><p>25% bonus increase</p>    |
+
+{% hint style="info" %}
+**Note:** There are no Accessory upgrade for Druids
+{% endhint %}
+
+### Rampage Areas
+
+| Area             | Creature Supply | Min/Max Levels |
+| ---------------- | --------------- | -------------- |
+| Wandering Souls  | TBD             | 1-100          |
+| Fervorous Hollow | 8,000           | 60-100         |
+| Hidden Grove     | 4,000           | 60-100         |
+| Tomb of Vitality | 2,000           | 75-100         |
+| Inferno Abyss    | 666             | 99-100         |
+
+#### Entry costs, reroll eligibility, and levels gained
+
+<table><thead><tr><th>Area</th><th>Cost</th><th data-type="checkbox">Reroll Weapon or Accessory</th><th>Levels Gained</th></tr></thead><tbody><tr><td>Wandering Souls</td><td>75 $REN</td><td>false</td><td>3</td></tr><tr><td>Fervorous Hollow</td><td>125 $REN</td><td>false</td><td>5</td></tr><tr><td>Hidden Grove</td><td>300 $REN</td><td>true</td><td>0</td></tr><tr><td>Tomb of Vitality</td><td>600 $REN</td><td>true</td><td>0</td></tr><tr><td>Inferno Abyss</td><td>1200 $REN</td><td>true</td><td>0</td></tr></tbody></table>
+
+#### Weapon and Accessory upgrade/downgrade probabilities
+
+| Area             | Downgrade | No change | Upgrade |
+| ---------------- | --------- | --------- | ------- |
+| Wandering Souls  | -         | -         | -       |
+| Fervorous Hollow | -         | -         | -       |
+| Hidden Grove     | 20%       | 50%       | 25%     |
+| Tomb of Vitality | 5%        | 30%       | 60%     |
+| Inferno Abyss    | 0%        | 5%        | 90%     |
