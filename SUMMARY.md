@@ -8,11 +8,6 @@
 * [Minting](about/minting.md)
 * [FAQ](about/faq.md)
 
-## Game Economy <a href="#economy" id="economy"></a>
-
-* [Tokenomics](economy/miren.md)
-* [Liquidity Pool](economy/liquidity-pool.md)
-
 ## Elves
 
 * [Sentinels](elves/sentinels.md)
@@ -20,6 +15,11 @@
 * [Cooldowns](elves/cooldowns.md)
 * [Weapons](elves/weapons.md)
 * [Items](elves/items.md)
+
+## Game Economy <a href="#economy" id="economy"></a>
+
+* [Tokenomics](economy/miren.md)
+* [Liquidity Pool](economy/liquidity-pool.md)
 
 ## Playing
 
