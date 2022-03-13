@@ -24,7 +24,7 @@ Accessories are upgraded one tier at a time.
 | Tier 1         | <p><strong>Cosmetic</strong></p><p>Necklace</p>                  | <p><strong>Cosmetic</strong></p><p>Wristband</p>                 |
 | Tier 2         | <p><strong>Cosmetic</strong></p><p>Necklace &#x26; Wristband</p> | <p><strong>Cosmetic</strong></p><p>Necklace &#x26; Wristband</p> |
 | Tier 3         | <p><strong>Instant Kill</strong></p><p>15% bonus increase</p>    | <p><strong>Attack Points</strong></p><p>15% bonus increase</p>   |
-| Tier 4         | <p><strong>Instant Kill</strong></p><p>25% bonus increase</p>    | <p><strong>Instant Kill</strong></p><p>25% bonus increase</p>    |
+| Tier 4         | <p><strong>Instant Kill</strong></p><p>25% bonus increase</p>    | <p><strong>Attack Points</strong></p><p>25% bonus increase</p>   |
 
 {% hint style="info" %}
 **Note:** There are no Accessory upgrade for Druids
