@@ -67,6 +67,10 @@ Increases Attack Points by 30.  The attack points will reduce your attack time i
 
 Decreases Heal cooldown from 12 hours to 4 hours.
 
+{% hint style="info" %}
+You can use Ligers in Rampage
+{% endhint %}
+
 ### **Morph Rampage Areas**
 
 **Untamed Ether**
