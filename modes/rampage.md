@@ -9,8 +9,8 @@ Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morph
 * Can reroll their weapon for free upon starting a rampage
 * Can reroll their item upon starting a rampage
 * Can use Spirit Band in rampage
-* Rangers can be healed (1/2 cooldown reduction)
-* Assassins can be healed&#x20;
+* Rangers can be healed (1/2 remaining cooldown reduction)
+* Assassins can be healed (1/4 remaining cooldown reduction)
 
 #### Accessories
 
