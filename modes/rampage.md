@@ -9,6 +9,8 @@ Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morph
 * Can reroll their weapon for free upon starting a rampage
 * Can reroll their item upon starting a rampage
 * Can use Spirit Band in rampage
+* Rangers can be healed (1/2 cooldown reduction)
+* Assassins can be healed&#x20;
 
 #### Accessories
 
@@ -63,7 +65,7 @@ Increases Attack Points by 30.  The attack points will reduce your attack time i
 
 #### Liger
 
-Decreases Heal cooldown from 12 hours to 4 hours in Campaigns and Bloodthirst.
+Decreases Heal cooldown from 12 hours to 4 hours.
 
 ### **Morph Rampage Areas**
 
