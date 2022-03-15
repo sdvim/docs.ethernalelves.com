@@ -5,7 +5,7 @@ coverY: 35.68853640951689
 
 # Overview
 
-## **Chapter 1: Rise of the Sentinels**
+## **Chapter 1: Dawn of the Sentinels**
 
 Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels minted with $REN.
 
