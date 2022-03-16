@@ -49,9 +49,9 @@ Accessories are upgraded one tier at a time.
 | ---------------- | --------- | --------- | ------- |
 | Wandering Souls  | -         | -         | -       |
 | Fervorous Hollow | -         | -         | -       |
-| Hidden Grove     | 20%       | 50%       | 25%     |
-| Tomb of Vitality | 5%        | 30%       | 60%     |
-| Inferno Abyss    | 0%        | 5%        | 90%     |
+| Hidden Grove     | 20%       | 50%       | 30%     |
+| Tomb of Vitality | 5%        | 30%       | 65%     |
+| Inferno Abyss    | 0%        | 10%       | 90%     |
 
 ### Druid Morph Set
 
