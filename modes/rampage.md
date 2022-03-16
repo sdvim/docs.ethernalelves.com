@@ -33,7 +33,7 @@ Accessories are upgraded one tier at a time.
 
 | Area             | Creature Supply | Min/Max Levels |
 | ---------------- | --------------- | -------------- |
-| Wandering Souls  | TBD             | 1-100          |
+| Wandering Souls  | 10,000          | 1-100          |
 | Fervorous Hollow | 8,000           | 60-100         |
 | Hidden Grove     | 4,000           | 60-100         |
 | Tomb of Vitality | 2,000           | 75-100         |
