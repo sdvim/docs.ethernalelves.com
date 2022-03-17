@@ -7,7 +7,7 @@ Burn $REN to gain levels, weapons, and _accessories_. Druids may also have morph
 * Enter a fixed cooldown of 36 hours
 * Level up based on the rampage area they enter
 * Can reroll their weapon for free upon starting a rampage
-* Can reroll their item upon starting a rampage
+* Can reroll their accessory upon starting a rampage
 * Can use Spirit Band in rampage
 * Rangers can be healed (1/2 remaining cooldown reduction)
 * Assassins can be healed (1/4 remaining cooldown reduction)
