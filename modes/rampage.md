@@ -26,7 +26,7 @@ Accessories are upgraded one tier at a time.
 | Tier 4         | <p><strong>Instant Kill</strong></p><p>25% bonus increase</p>    | <p><strong>Attack Points</strong></p><p>25% bonus increase</p>   |
 
 {% hint style="info" %}
-**Note:** The highest Weapon Tier you can upgrade to for all Sentinel Classes is Tier 4. There are no Accessory upgrade for Druids.
+**Note:** There are no Accessory upgrade for Druids.
 {% endhint %}
 
 ### Rampage Areas
@@ -54,7 +54,7 @@ Accessories are upgraded one tier at a time.
 | Inferno Abyss    | 0%        | 10%       | 90%     |
 
 {% hint style="info" %}
-Weapons and Accesories upgrade/downgrade from their current tier. T5 Weapons are not avaialble in Rampage.
+Weapons and Accessories upgrade/downgrade from their current tier. T5 Weapons are not available in Rampage.
 {% endhint %}
 
 ### Druid Morph Set
