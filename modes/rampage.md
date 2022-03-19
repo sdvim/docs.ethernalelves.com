@@ -53,6 +53,10 @@ Accessories are upgraded one tier at a time.
 | Tomb of Vitality | 5%        | 30%       | 65%     |
 | Inferno Abyss    | 0%        | 10%       | 90%     |
 
+{% hint style="info" %}
+Weapons and Accesories upgrade/downgrade from their current tier. T5 Weapons are not avaialble in Rampage.
+{% endhint %}
+
 ### Druid Morph Set
 
 You will have the ability to change/morph your Druid avatar in the GUI.
@@ -92,5 +96,3 @@ You can use Ligers in Rampage
   * 50% Liger
 
 \
-
-
