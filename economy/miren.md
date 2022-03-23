@@ -20,7 +20,7 @@ Outside of the game utility exists a liquidity pool set up and run by other play
 
 ### **Artifacts**
 
-Artifacts are the spirit of the Elves which strengthens the Elven universe. With combination of Blood and Spirit, their world can rebuilt to be stronger than before.
+Artifacts are the spirit of the Elves which strengthens the Elven universe. With combination of Blood and Spirit, their world can rebuild to be stronger than before.
 
 Once the Elders are released, Artifacts can be used to:
 
