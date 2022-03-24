@@ -6,7 +6,7 @@ description: Crusades, Artifacts, Snapshot
 
 ### **Overview**
 
-What are Artifacts and how important are they in the Ethernal Elves ecosystem? Artifacts are the spirit of the Elves which strengthens the Elven universe. With a combination of Blood and Spirit, their world can rebuild to be stronger than before. Simply put, Miren is equivalent to oil and an Artifact is equivalent to the catalyst that produces the end product of what oil creates. Where Elders are the Creators in the Elvenverse.  Once Sentinels go on their initial Crusades, they will no longer be able to obtain Artifacts. \
+What are Artifacts and how important are they in the Ethernal Elves ecosystem? Artifacts are the spirit of the Elves which strengthens the Elven universe. With a combination of Blood and Spirit, their world can rebuild to be stronger than before. Simply put, Miren is equivalent to oil and an Artifact is equivalent to the reagent that helps produce the end product of what oil creates. Where Elders are the Creators in the Elvenverse.  Once Sentinels go on their initial Crusades, they will no longer be able to obtain Artifacts. \
 \
 Artifacts will be able to mint the following:\
 \
