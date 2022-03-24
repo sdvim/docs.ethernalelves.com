@@ -28,3 +28,7 @@
 * [Campaigns](modes/campaigns.md)
 * [Bloodthirst](modes/bloodthirst.md)
 * [Rampage](modes/rampage.md)
+
+***
+
+* [Updates](updates.md)
