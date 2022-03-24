@@ -16,6 +16,10 @@ Mint Land\
 \
 ...and unlock more in-game assets to come
 
+{% hint style="info" %}
+\*upgrades may include armor and special abilities
+{% endhint %}
+
 ### **Crusades**
 
 \
