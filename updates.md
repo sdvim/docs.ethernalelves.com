@@ -23,9 +23,10 @@ Mint Land\
 ### **Crusades**
 
 \
-Sentinels will receive **scrolls** based on their Artifact eligibility, sacrifice $REN and embark on the boat to go on a long journey in search for Artifacts for 5-7 days.   The number of scrolls received is the number of times you can go on Crusades. You only will be able to go on 1 Crusade per TX.  You will be able to reduce Crusade times by one or two days based on the level probability table.  Elders will have a similar path to Artifacts but it will be more active and robust. \
+Sentinels will receive **scrolls** based on their Elder eligibility, sacrifice $REN and embark on the boat to go on a long journey in search for Artifacts for 5-7 days.   The number of scrolls received is the number of times you can go on Crusades. You only will be able to go on 1 Crusade per TX.  You will be able to reduce Crusade times by one or two days based on the level probability table.  Elders will have a similar path to Artifacts but it will be more active and robust. \
 \
-1 Scroll = 1 Crusade (For Sentinels Only)
+1 Scroll = 1 Crusade (For Sentinels Only)\
+7 Artifacts = 1 Elder (Initial Mint)
 
 ### **Artifacts**
 
