@@ -60,7 +60,7 @@ Note: To help to prevent wallet transfers around snapshot dates, the number of S
 
 Group 1
 
-* Wallet Holder Date - February 4, 2022
+* Wallet Holder Date - February 4, 2022 to February 14, 2022
 * Elder Count Date - February 14, 2022
 * \~1,600 Eligible Elders
 * Wallets that were not included on the February 4 date but are a new entry on the February 14 snap shot are included in Group 2
@@ -89,7 +89,7 @@ Did not include distribution for wallets holding 39+ Sentinels
 
 Group 2
 
-* &#x20;Wallet Holder Date - February 14, 2022
+* &#x20;Wallet Holder Date - February 14, 2022 to March 4, 2022
 * Elder Count Date – March 4, 2022
 * \~200 Eligible Elders
 * Wallets that were not included on the Group 1 snapshot but are a new entry on the Group 2 snapshot must have the minimum number of Sentinels to be eligible for 1 Elder which holding at least 3 Sentinels
