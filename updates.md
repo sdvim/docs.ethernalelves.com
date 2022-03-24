@@ -39,7 +39,7 @@ There will be 5 types of Artifacts
 * Groves
 
 {% hint style="info" %}
-Artifact names may be subject to change
+Artifact type names may be subject to change
 {% endhint %}
 
 The type will have no effect when minting Elders, however, it will play a factor in what type of Armor you can upgrade to in the future as well as unlocking special abilities.\
