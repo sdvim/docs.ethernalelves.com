@@ -19,3 +19,8 @@ Player pays a fee for a 20% chance to receive a new item for each selected Senti
 |                     ![](<../.gitbook/assets/Spirit Band.png>)                    |             ![](<../.gitbook/assets/Aura of Immunity.png>)             |               ![](<../.gitbook/assets/Demonic Rupture.png>)               |   |
 |          <p><strong>Spirit Band</strong></p><p>Doubles gained levels</p>         | <p><strong>Aura of Immunity</strong></p><p>Eliminates regeneration</p> | <p><strong>Demonic Rupture</strong></p><p>Triples total attack points</p> |   |
 
+## Trade Items
+
+You can trade items by selling them to the contract. You can buy items other players have sold. Prices for each item are fixed, however the developers may change this from time to time. The contract will purchase a set maximum number of items.&#x20;
+
+You cannot buy or sell Demonic Rupture.
