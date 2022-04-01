@@ -28,7 +28,8 @@
 * [Campaigns](modes/campaigns.md)
 * [Bloodthirst](modes/bloodthirst.md)
 * [Rampage](modes/rampage.md)
+* [Crusades](playing/crusades.md)
 
 ***
 
-* [Updates](updates.md)
+* [Updates - 3/24/2022](updates-3-24-2022.md)
