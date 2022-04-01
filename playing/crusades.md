@@ -45,7 +45,9 @@ There will be an initial mint date to mint Elders.  Even if you acquired enough 
 \
 Initial Mint Date - Late April/Early May\
 \
-Elders Crusades will open up shortly after to acquire Artifacts and mint the remaining Elders.
+Elders Crusades will open up shortly after to acquire Artifacts and mint the remaining Elders.\
+\
+Mint Price: 7 Artifacts
 
 {% hint style="info" %}
 All values/numbers above may be subject to change
