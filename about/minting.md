@@ -21,4 +21,4 @@ The initial supply of the Elders will be minted by those who complete the first 
 
 Crusades are completed by the holders of Sentinels at a stealth snapshot date.
 
-The initial supply will be minted with one Artifact.&#x20;
+The initial supply will be minted with Artifacts, see [Crusades ](../playing/crusades.md)for more info.&#x20;
