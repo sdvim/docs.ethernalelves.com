@@ -7,6 +7,7 @@
 * [Polygon Gameplay](about/polygon-gameplay.md)
 * [Minting](about/minting.md)
 * [FAQ](about/faq.md)
+* [Discord Bot Commands](about/discord-bot-commands.md)
 
 ## Elves
 
@@ -16,7 +17,6 @@
 * [Weapons](elves/weapons.md)
 * [Items](elves/items.md)
 * [Uniques](elves/uniques.md)
-* [Accessories](elves/accessories.md)
 
 ## Game Economy <a href="#economy" id="economy"></a>
 
