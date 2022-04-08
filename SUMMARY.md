@@ -15,6 +15,8 @@
 * [Cooldowns](elves/cooldowns.md)
 * [Weapons](elves/weapons.md)
 * [Items](elves/items.md)
+* [Uniques](elves/uniques.md)
+* [Accessories](elves/accessories.md)
 
 ## Game Economy <a href="#economy" id="economy"></a>
 
