@@ -35,20 +35,16 @@ You can use the following commands in the dapp bot commands channel:
 ### Action Index
 
 ```
-  {action: 0, text: 'unstake'}
-  {action: 1, text: 'stake'}
+
   {action: 2, text: 'campaign'}
   {action: 3, text: 'passive mode'}
   {action: 4, text: 'return from passive mode'}
   {action: 5, text: 're-roll weapon'}
   {action: 6, text: 're-roll item'}
   {action: 7, text: 'healing'}
-  {action: 8, text: 'polygon'}
   {action: 9, text: 'synergize'}
   {action: 10, text: 'bloodthirst'}
   {action: 11, text: 'rampage'}
   {action: 12, text: 'buy item'}
   {action: 13, text: 'sell item'}
-  {action: 14, text: 'crusade'}
-  {action: 15, text: 'return crusade'}
 ```
