@@ -12,6 +12,7 @@ You can use the following commands in the dapp bot commands channel:
 !burn 
 !burn [wallet address]
 !degen [actionIndex]
+!degen [actionIndex] daily
 !ens [wallet Address]
 !elf [tokenId]
 !me [tokenId] [actionIndex]
@@ -25,6 +26,7 @@ You can use the following commands in the dapp bot commands channel:
 | !burn   | none                 | daily net emissions/burn Calculated from 00:00 to 23:59 UTC                                                               |
 | !burn   | wallet address       | gets daily burn and emissions for the selected wallet                                                                     |
 | !degen  | action index         | refer to actions list below. Returns the token Ids and latest owners for top 5 by frequency of action                     |
+| !degen  | action index, daily  | adding the word "daily" after the action index will return stats for today                                                |
 | !elf    | tokenId              | returns information about the elf. Data may be delayed since it is being fetched from the database and not the blockchain |
 | !ens    | wallet address       | returns the .eth name for the selected address. returns nothing if no ens is found                                        |
 | !me     | tokenId, actionIndex | returns frequency of action by token id and current owner                                                                 |
