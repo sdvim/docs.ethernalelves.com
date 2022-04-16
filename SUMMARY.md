@@ -35,3 +35,7 @@
 ***
 
 * [Updates - 3/24/2022](updates-3-24-2022.md)
+
+## Developer
+
+* [Architecture](developer/architecture.md)
