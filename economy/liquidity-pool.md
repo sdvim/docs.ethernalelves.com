@@ -21,7 +21,7 @@ A liquidity pool that contains:
 
 If someone buys $500.00 worth of $REN, the balance would shift to a 75:25 ratio and increases the price of $REN by a large margin. The larger this pool, the more stable price pairing of $REN/ETH.
 
-![Liquidity pool](../.gitbook/assets/image.png)
+![Liquidity pool](<../.gitbook/assets/image (1).png>)
 
 Any trade on the LP is accompanied by a small fee (1% at the time of writing for $REN) which is distributed across the liquidity providers based on their share in the liquidity pool. Since this is true for each transaction these fees can accumulate quite significant sums making it an interesting investment opportunity.
 
@@ -47,7 +47,7 @@ This is dependent on volume and the range specified, but about 0.5% to 1% per da
 
 To provide liquidity on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xE6b055ABb1c40B6C0Bf3a4ae126b6B8dBE6C5F3f\&chain=mainnet), specify a certain amount of ETH and $REN in a 50:50 ratio so both tokens represent. This link will show something like the following image, where assets can be added to the LP:
 
-![Uniswap-1](<../.gitbook/assets/image (1).png>)
+![Uniswap-1](<../.gitbook/assets/image (1) (1).png>)
 
 Take note of the fee tier which is added to each transaction to be shared across liquidity providers.
 

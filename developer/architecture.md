@@ -4,7 +4,7 @@ description: Overview of the Ethernal Elves technology stack
 
 # Architecture
 
-![](<../.gitbook/assets/image (2).png>)
+![Click to open](../.gitbook/assets/image.png)
 
 ### Contract Addresses
 
