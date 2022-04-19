@@ -28,6 +28,10 @@ When you click on the "To Game" button, the contract will move tokens from your 
 This is gasless! Once you have approved the contract, you do not need to pay for gas when you use the Elven Wallet again!
 {% endhint %}
 
+### Swap
+
+[See Project Liquidity Pool FAQ's](project-liquidity-pool-faqs.md#how-do-i-swap-slp-tokens-for-usdmoon)
+
 ### Withdraw to Wallet
 
 When you click on the "To Wallet" button, the contract will transfer tokens from your in-game balance in the Elven Wallet to your eth compabible wallet.&#x20;
