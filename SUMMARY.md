@@ -22,6 +22,8 @@
 
 * [Tokenomics](economy/miren.md)
 * [Liquidity Pool](economy/liquidity-pool.md)
+* [Project Liquidity Pool FAQ's](economy/project-liquidity-pool-faqs.md)
+* [Elven Wallet](economy/elven-wallet.md)
 
 ## Playing
 
