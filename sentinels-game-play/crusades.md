@@ -25,6 +25,8 @@ You can use $MOON to enhance Crusades by:
 Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost and increase Artifact probability in the same transaction
 {% endhint %}
 
+### Overview
+
 | Area              | 1 Artifact | 2 Artifacts | $REN  |
 | ----------------- | ---------- | ----------- | ----- |
 | Tartarean Crusade | 90%        | 10%         | 1,500 |
