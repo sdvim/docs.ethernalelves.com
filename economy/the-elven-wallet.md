@@ -10,6 +10,12 @@ You can access the Elven Wallet by clicking on the hamburger menu in the top lef
 
 ![All current and future assets can be bridged to the game from the Elven Wallet](../.gitbook/assets/Wallet.png)
 
+### Balances
+
+When there are two balances displayed, the primary balance is your in-game token balance. The balance on the second line is your wallet balance.&#x20;
+
+In the case of SLP, the primary balance is the amount of SLP you have in your wallet.&#x20;
+
 ### Approve Contract
 
 Before you can use the Elven Wallet to deposit or withdraw funds from your game balance, you need to approve the ElvenWallet contract to transact tokens on your behalf. You will have to do this for each token you want to use in the Elven Wallet.
