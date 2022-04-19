@@ -26,7 +26,7 @@ $MOON has the following utility
 2. Governance: Vote on future proposals
 3. Receive a percentage of $REN burn through staking (details to follow)
 
-Current In-game use:
+Current In-game Use (you'll have the option to choose ONE of the following):
 
 * Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade
 * Use 15 $MOON to increase two (2) Artifacts probability by 10%
