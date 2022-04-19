@@ -7,26 +7,26 @@
 
 **Artifacts** \
 ****\
-****There will be 5 types of Artifacts
+****Artifacts will be a tradable (ERC721) non-fungible token. In theory, even if you are not going on Crusades, you can purchase Artifacts on the secondary to mint an Elder.  During the initial supply of Elders, you will still need a Sentinel when you go to the summoning ground.  Sentinels will require 7 Artifacts to mint 1 Elder.&#x20;
 
-* Vines
-* Relics
-* Magma
-* Rime
-* Groves
+****
 
 {% hint style="info" %}
-Artifact type names may be subject to change
+In an earlier version of this page we had listed five kinds of Artifacts. That is no longer the case, there is just one type of Artifacts.&#x20;
 {% endhint %}
-
-The type will have no effect when minting Elders, however, it will play a factor in what type of Armor you can upgrade to in the future as well as unlocking special abilities.\
-\
-Artifacts will be a tradable (ERC721) non-fungible token. In theory, even if you are not going on Crusades, you can purchase Artifacts on the secondary to mint an Elder.  During the initial supply of Elders, you will still need a Sentinel when you go to the summoning ground.  Sentinels will require 7 Artifacts to mint 1 Elder.&#x20;
 
 **Crusades**
 
-The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.\
+The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.
 
+You can use $MOON to enhance Crusades by:
+
+* Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade, when going on a Crusade
+* Use 15 $MOON to increase two (2) Artifacts' probability by 10% when returning from a Crusade.
+
+{% hint style="info" %}
+Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost and increase Artifact probability in the same transaction
+{% endhint %}
 
 | Area              | 1 Artifact | 2 Artifacts | $REN  |
 | ----------------- | ---------- | ----------- | ----- |
