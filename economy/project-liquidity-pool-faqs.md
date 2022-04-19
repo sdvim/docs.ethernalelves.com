@@ -2,9 +2,11 @@
 
 ## **Why a project owned Liquidity Pool?**
 
-When a project manages a Liquidity Pool, the project team can take certain actions to help keep the pool healthy. In the Ethernal Elves Project LP, we will lock up liquidity permanently and provide incentives to liquidity providers for doing that.
+Protocol Owned Liquidity is a great way for projects to ensure the long-term success of their native assets.
 
-When you provide liquidity to the project pool, you will receive[ SLP tokens (SushiSwap Liquidity Provider tokens)](https://docs.sushi.com/products/amm-exchange/liquidity-pools) which can be exchanged for $MOON
+When a project manages a Liquidity Pool, the project team can take certain actions to help keep the pool healthy. In the Ethernal Elves Project LP, we will lock up liquidity permanently. In return, the project will provide liquidity providers incentives.
+
+When you provide liquidity to the project pool, you will receive[ SLP tokens (SushiSwap Liquidity Provider tokens)](https://docs.sushi.com/products/amm-exchange/liquidity-pools) which can be exchanged for $MOON.&#x20;
 
 ### LP Incentives&#x20;
 
