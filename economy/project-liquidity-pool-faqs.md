@@ -31,10 +31,6 @@ Current In-game Use (you'll have the option to choose ONE of the following):
 * Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade
 * Use 15 $MOON to increase two (2) Artifacts probability by 10%
 
-{% hint style="info" %}
-Note: Using $MOON in Crusades&#x20;
-{% endhint %}
-
 #### $MOON Supply:&#x20;
 
 There will be a fixed supply of $MOON. When $MOON is used in-game, it will go back into Treasury, effectively removing it from circulation.
