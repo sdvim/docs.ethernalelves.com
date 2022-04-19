@@ -14,8 +14,8 @@ $REN the in-game utility token can be used to:
 
 Outside of the game utility exists a liquidity pool set up and run by other players of the community.
 
-{% content-ref url="liquidity-pool.md" %}
-[liquidity-pool.md](liquidity-pool.md)
+{% content-ref url="liquidity-pools.md" %}
+[liquidity-pools.md](liquidity-pools.md)
 {% endcontent-ref %}
 
 ### **Artifacts**

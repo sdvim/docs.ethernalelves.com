@@ -21,7 +21,7 @@
 ## Game Economy <a href="#economy" id="economy"></a>
 
 * [Tokenomics](economy/miren.md)
-* [Liquidity Pool](economy/liquidity-pool.md)
+* [Liquidity Pools](economy/liquidity-pools.md)
 * [Project Liquidity Pool FAQ's](economy/project-liquidity-pool-faqs.md)
 * [The Elven Wallet](economy/the-elven-wallet.md)
 
