@@ -1,6 +1,6 @@
 # Project Liquidity Pool FAQ's
 
-## **Why a project owned Liquidity Pool?**
+## Why Protocol Owned Liquidity
 
 Protocol Owned Liquidity is a great way for projects to ensure the long-term success of their native assets.
 
@@ -26,7 +26,7 @@ $MOON has the following utility
 2. Governance: Vote on future proposals
 3. Receive a percentage of $REN burn through staking (details to follow)
 
-Current In game use:
+Current In-game use:
 
 * Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade
 * Use 15 $MOON to increase two (2) Artifacts probability by 10%
@@ -40,7 +40,7 @@ There will be a fixed supply of $MOON. When $MOON is used in-game, it will go ba
 Treasury: 600,000\
 Elders: 2,000,000
 
-Total: 1,400,000
+Total: 4,000,000
 
 ### **Why we are using Polygon?**
 
@@ -55,6 +55,18 @@ Currently, the only way to get $MOON is by providing liquidity and swapping your
 {% hint style="info" %}
 You can still provide liquidity without swapping it for $MOON. Rewards will be limited to fees earned from Sushi Swap and you can withdraw your liquidity at any time.&#x20;
 {% endhint %}
+
+## **How to bridge ETH to Polygon**
+
+Step 1: Go to the [Polygon Wallet](https://wallet.polygon.technology/wallet/) and sign in to your wallet.
+
+Step 2: Click on [Bridge ](https://wallet.polygon.technology/bridge)and then select the amount of ETH you want to send to Polygon
+
+Step 3: Follow the prompts on the screen and confirm the transaction. It says it will take 8 minutes, but expect to wait for at least 30.
+
+![](../.gitbook/assets/8.png)
+
+Once you have ETH in Polygon, you can swap some of it for MATIC. Gas fees are paid in MATIC and typically cost less than a penny for transactions.
 
 ## **How to bridge $REN from ETH to Polygon**
 
