@@ -12,7 +12,9 @@ With the sacrifice of $REN Sentinels will go on a long journey to acquire Artifa
 
 Crusades will be completed "in-game" which is on Polygon.  You will need to bridge Artifacts to ETH like how you would bridge REN to ETH if you want to mint an Ethernal Elves NFT. &#x20;
 
-The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.
+The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.\
+\
+**$MOON Utility**
 
 You can use $MOON to enhance Crusades by:
 
