@@ -22,7 +22,7 @@
 
 * [Tokenomics](economy/miren.md)
 * [Liquidity Pools](economy/liquidity-pools.md)
-* [Project Liquidity Pool FAQ's](economy/project-liquidity-pool-faqs.md)
+* [Protocol Owned Liquidity Pool FAQ's](economy/protocol-owned-liquidity-pool-faqs.md)
 * [The Elven Wallet](economy/the-elven-wallet.md)
 
 ## Playing

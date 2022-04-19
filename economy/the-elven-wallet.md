@@ -36,7 +36,7 @@ This is gasless! Once you have approved the contract, you do not need to pay for
 
 ### Swap
 
-[See Project Liquidity Pool FAQ's](project-liquidity-pool-faqs.md#how-do-i-swap-slp-tokens-for-usdmoon)
+[See Project Liquidity Pool FAQ's](protocol-owned-liquidity-pool-faqs.md#how-do-i-swap-slp-tokens-for-usdmoon)
 
 ### Withdraw to Wallet
 

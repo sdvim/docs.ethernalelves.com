@@ -33,5 +33,5 @@ This is dependent on volume and the range specified, but about 0.5% to 1% per da
 
 ### How do I provide liquidity?
 
-[See Project Liquidity Pool FAQ's](project-liquidity-pool-faqs.md#how-do-i-provide-liquidity)
+[See Project Liquidity Pool FAQ's](protocol-owned-liquidity-pool-faqs.md#how-do-i-provide-liquidity)
 
