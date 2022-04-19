@@ -10,18 +10,9 @@ When you provide liquidity to the project pool, you will receive[ SLP tokens (Su
 
 #### **Receive $MOON in exchange for SLP** &#x20;
 
-You can swap SLP's from the project LP for $MOON using the Elven Wallet. The MOON per SLP will be swapped as per the bonding cruve in the table below.&#x20;
+You can swap $SLP from the Project LP for $MOON using the Elven Wallet. The MOON per SLP will adjust based on the supply remaining, as per the bonding curve in the table below.&#x20;
 
-| MOON LP Supply | MOON PER SLP  |
-| :------------: | :-----------: |
-|    1,400,000   |       50      |
-|   1,100,000    |       36      |
-|    800,000     |       32      |
-|    500,000     |      28       |
-|    200,000     |       26      |
-|    150,000     |       24      |
-|    100,000     |       22      |
-|     50,000     |       20      |
+<table><thead><tr><th>$MOON LP  Tier Supply</th><th align="center">$MOON LP Suply Remaining</th><th data-type="number">$MOON PER $SLP at Tier</th></tr></thead><tbody><tr><td>Tier 1: 300,000</td><td align="center"> 1,400,000</td><td>50</td></tr><tr><td>Tier 2: 300,000</td><td align="center"> 1,100,000</td><td>36</td></tr><tr><td>Tier 3: 300,000</td><td align="center"> 800,000</td><td>32</td></tr><tr><td>Tier 4: 300,000</td><td align="center"> 500,000</td><td>28</td></tr><tr><td>Tier 5: 50,000</td><td align="center"> 200,000</td><td>26</td></tr><tr><td>Tier 6: 50,000</td><td align="center">150,000</td><td>24</td></tr><tr><td>Tier 7: 50,000</td><td align="center">100,000</td><td>22</td></tr><tr><td>Tier 8: 50,000</td><td align="center">50,000</td><td>20</td></tr></tbody></table>
 
 ****
 
