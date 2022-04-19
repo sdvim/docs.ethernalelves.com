@@ -1,2 +1,0 @@
-# Elven Wallet
-
