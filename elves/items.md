@@ -1,6 +1,6 @@
 # Items
 
-Items are consumables that temporarily boost your Sentinel during active [game modes](../modes/game-modes.md).
+Items are consumables that temporarily boost your Sentinel during active [game modes](../sentinels-game-play/game-modes.md).
 
 Items can be acquired in active game modes by rerolling or purchased from the Merchant.
 

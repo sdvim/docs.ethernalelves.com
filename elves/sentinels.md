@@ -20,7 +20,7 @@ The greatest impact stats have are on calculating [cooldowns ](cooldowns.md)for 
 
 #### **Levels**
 
-Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../modes/campaigns.md).
+Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../sentinels-game-play/campaigns.md).
 
 #### Attack points
 
@@ -82,7 +82,7 @@ $$
 #### Automatic Ability: Instant Kill
 
 * Has a chance to instantly slay creatures, removing attack time from cooldown calculation
-* [Bloodthirst](../modes/bloodthirst.md) only
+* [Bloodthirst](../sentinels-game-play/bloodthirst.md) only
 
 ### Rangers
 

@@ -21,22 +21,26 @@
 ## Game Economy <a href="#economy" id="economy"></a>
 
 * [Tokenomics](economy/miren.md)
-* [Liquidity Pools](economy/liquidity-pools.md)
+* [Liquidity Pools](economy/liquidity-pool.md)
 * [Protocol Owned Liquidity Pool FAQ's](economy/protocol-owned-liquidity-pool-faqs.md)
 * [The Elven Wallet](economy/the-elven-wallet.md)
 
-## Playing
+## Sentinels Game Play
 
-* [Game Modes](modes/game-modes.md)
-* [Passive](modes/passive.md)
-* [Campaigns](modes/campaigns.md)
-* [Bloodthirst](modes/bloodthirst.md)
-* [Rampage](modes/rampage.md)
-* [Crusades](playing/crusades.md)
+* [Game Modes](sentinels-game-play/game-modes.md)
+* [Passive](sentinels-game-play/passive.md)
+* [Campaigns](sentinels-game-play/campaigns.md)
+* [Bloodthirst](sentinels-game-play/bloodthirst.md)
+* [Rampage](sentinels-game-play/rampage.md)
+* [Crusades](sentinels-game-play/crusades.md)
+
+## Elders Game Play
+
+* [Crusades](elders-game-play/crusades.md)
 
 ***
 
-* [Updates - 3/24/2022](updates-3-24-2022.md)
+* [Elders Snapshot ](elders-snapshot.md)
 
 ## Developer
 
