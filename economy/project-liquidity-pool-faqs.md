@@ -50,6 +50,20 @@ Providing permanent liquidity will help keep the pool healthy and create a susta
 
 Currently, the only way to get $MOON is by providing liquidity and swapping your LP tokens (SLP) for $MOON
 
+{% hint style="info" %}
+You can still provide liquidity without swapping it for $MOON. Rewards will be limited to fees earned from Sushi Swap and you can withdraw your liquidity at any time.&#x20;
+{% endhint %}
+
+## **How to bridge $REN from ETH to Polygon**
+
+You can bridge REN that you have as a game credit or in your eth wallet, on Ethereum by first claiming REN to your wallet (if you have REN to claim) and then click **"SEND REN to GAME**". This will take 5 to 10 minutes to complete.
+
+{% hint style="danger" %}
+Do not attempt to bridge REN using the Polygon POS Bridge. Only use the dApp bridge as described above.
+{% endhint %}
+
+![](../.gitbook/assets/7.png)
+
 ## **How do I provide liquidity?**
 
 ### **Step 1: Get pREN**
