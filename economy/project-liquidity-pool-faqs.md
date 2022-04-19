@@ -31,6 +31,10 @@ Current In-game use:
 * Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade
 * Use 15 $MOON to increase two (2) Artifacts probability by 10%
 
+{% hint style="info" %}
+Note: Using $MOON in Crusades&#x20;
+{% endhint %}
+
 #### $MOON Supply:&#x20;
 
 There will be a fixed supply of $MOON. When $MOON is used in-game, it will go back into Treasury, effectively removing it from circulation.
@@ -67,6 +71,8 @@ Step 3: Follow the prompts on the screen and confirm the transaction. It says it
 ![](../.gitbook/assets/8.png)
 
 Once you have ETH in Polygon, you can swap some of it for MATIC. Gas fees are paid in MATIC and typically cost less than a penny for transactions.
+
+You can also watch [this video](https://www.loom.com/share/b40f1eb39658438db6a0b3a7e981132a) for step-by-step instructions.&#x20;
 
 ## **How to bridge $REN from ETH to Polygon**
 
