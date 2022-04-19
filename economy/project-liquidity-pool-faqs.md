@@ -10,7 +10,7 @@ When you provide liquidity to the project pool, you will receive[ SLP tokens (Su
 
 #### **Receive $MOON in exchange for SLP** &#x20;
 
-You can swap SLP's from the project LP for $MOON using the Elven Wallet. The MOON per SLP will be swaped as per the bonding in the table below.&#x20;
+You can swap SLP's from the project LP for $MOON using the Elven Wallet. The MOON per SLP will be swapped as per the bonding cruve in the table below.&#x20;
 
 | MOON LP Supply | MOON PER SLP  |
 | :------------: | :-----------: |
@@ -33,7 +33,7 @@ $MOON has the following utility
 2. Governance: Vote on future proposals
 3. Receive a percentage of $REN burn through staking (details to follow)
 
-In game use:
+Current In game use:
 
 * Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade
 * Use 15 $MOON to increase two (2) Artifacts probability by 10%
