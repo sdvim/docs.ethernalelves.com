@@ -22,7 +22,7 @@ You will need to be connected to Polygon/MATIC for approvals. Approvals require 
 
 ### Deposit To Game
 
-When you click on the "To Game" button, the contract will move tokens from your web3 eth compabible wallet (like Metamask) to your in game balance.
+When you click on the "To Game" button, the contract will move tokens from your web3 eth compatible wallet (like Metamask) to your in-game balance.
 
 {% hint style="success" %}
 This is gasless! Once you have approved the contract, you do not need to pay for gas when you use the Elven Wallet again!
@@ -34,7 +34,7 @@ This is gasless! Once you have approved the contract, you do not need to pay for
 
 ### Withdraw to Wallet
 
-When you click on the "To Wallet" button, the contract will transfer tokens from your in-game balance in the Elven Wallet to your eth compabible wallet.&#x20;
+When you click on the "To Wallet" button, the contract will transfer tokens from your in-game balance in the Elven Wallet to your eth compatible wallet.&#x20;
 
 {% hint style="success" %}
 This is a gasless transaction.&#x20;
