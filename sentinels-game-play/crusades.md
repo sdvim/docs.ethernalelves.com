@@ -56,12 +56,12 @@ Initial Mint Date - Late May/Early June\
 Elders Crusades will open up shortly after to acquire Artifacts and mint the remaining Elders.
 
 **Approximate Mint Dates:** \
-****Artifacts:  May 16, 2022\
-Elders: June 3, 2022\
+****Mint Artifacts:  May 16, 2022\
+Mint Elders with Artifacts: June 3, 2022\
 \
 Elders Mint Price: 7 Artifacts\
 
 
 {% hint style="info" %}
-All values/numbers above may be subject to change
+Dates may come earlier, after the phase of Minting Elders with Artifacts occur, Elders will be able to acquire Resources to convert into Artifacts to Mint additional Elders
 {% endhint %}
