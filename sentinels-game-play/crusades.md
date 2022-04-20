@@ -25,15 +25,47 @@ You can use $MOON to enhance Crusades by:
 
 **How to use $MOON for Crusades**
 
-When you go on Crusades, you will see two sections, with the headline Select Elves to send on Crusades (Labeled in 1 image below and Return from Crusades (Labeled 2 in image below). &#x20;
-
-![](../.gitbook/assets/Crusades.png)
+When you go on Crusades, you will see two sections, with the headline Select Elves to send on Crusades&#x20;
 
 You will notice a checkbox in each section above which you can then reduce the amount of $REN in section 1 or increase Artifacts probability in section 2.  Simply select the checkbox prior to clicking on **Send Crusade** or **Return from Crusades** if you want to use $MOON.
 
 {% hint style="info" %}
 Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost more than once or increase the probability more than once per Crusade. You will be able to send multiple Elves and use $MOON in one TX.
 {% endhint %}
+
+**How To Go on Crusades**
+
+**Step 1:** Go to the Web App (dApp) on Gasless Gameplay.  Select Actions
+
+![](../.gitbook/assets/Step1Crusades.png)
+
+
+
+**Step 2:** Dropdown will occur, select Crusades
+
+![](../.gitbook/assets/Step2Crusades.png)
+
+
+
+**Step 3:**  Make sure **SEND TO CRUSADE** tab is selected
+
+![](../.gitbook/assets/Step0Crusades.png)
+
+**Step 4:** Select your Elves, you will notice the amount of elves you select will reduce Scrolls and MIREN ( numbers are - in red)
+
+![](../.gitbook/assets/Step3SelectElves.png)
+
+
+
+**Step 5:** If you want to use $MOON, do not skip this step, select the checkmark if you want to use $MOON, leave unchecked if you do not want to use $MOON
+
+![](../.gitbook/assets/Step4UseMOON.png)
+
+
+
+**Final:** Review information and then click on **SEND CRUSADE** to confirm tx
+
+![](<../.gitbook/assets/Send Crusades.png>)
 
 ### Overview
 
@@ -63,5 +95,5 @@ Elders Mint Price: 7 Artifacts\
 
 
 {% hint style="info" %}
-Dates may come earlier, after the phase of Minting Elders with Artifacts occur, Elders will be able to acquire Resources to convert into Artifacts to Mint additional Elders
+Dates may come earlier, after the phase of Minting Elders with Artifacts occur. Elders will be able to acquire Resources to convert into Artifacts to Mint additional Elders
 {% endhint %}

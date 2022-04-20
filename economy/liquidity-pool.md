@@ -13,7 +13,7 @@ A liquidity pool that contains:
 
 If someone buys $500.00 worth of $REN, the balance would shift to a 75:25 ratio and increases the price of $REN by a large margin. The larger this pool, the more stable price pairing of $REN/ETH.
 
-![Liquidity pool](<../.gitbook/assets/image (1).png>)
+![Liquidity pool](<../.gitbook/assets/image (1) (1).png>)
 
 Any trade on the LP is accompanied by a small fee (1% at the time of writing for $REN) which is distributed across the liquidity providers based on their share in the liquidity pool. Since this is true for each transaction these fees can accumulate quite significant sums making it an interesting investment opportunity.
 
