@@ -23,8 +23,16 @@ You can use $MOON to enhance Crusades by:
 * Use 5 $MOON to reduce the cost of going on Crusades by 300 $REN per Crusade, when going on a Crusade
 * Use 15 $MOON to increase two (2) Artifacts' probability by 10% when returning from a Crusade.
 
+**How to use $MOON for Crusades**
+
+When you go on Crusades, you will see two sections, with the headline Select Elves to send on Crusades (Labeled in 1 image below and Return from Crusades (Labeled 2 in image below). &#x20;
+
+![](../.gitbook/assets/Crusades.png)
+
+You will notice a checkbox in each section above which you can then reduce the amount of $REN in section 1 or increase Artifacts probability in section 2. &#x20;
+
 {% hint style="info" %}
-Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost and increase Artifact probability in the same transaction
+Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost more than once or increase the probability more than once per Crusade. You will be able to send multiple Elves and use $MOON in one TX.
 {% endhint %}
 
 ### Overview
