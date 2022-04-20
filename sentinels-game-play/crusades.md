@@ -29,7 +29,7 @@ When you go on Crusades, you will see two sections, with the headline Select Elv
 
 ![](../.gitbook/assets/Crusades.png)
 
-You will notice a checkbox in each section above which you can then reduce the amount of $REN in section 1 or increase Artifacts probability in section 2. &#x20;
+You will notice a checkbox in each section above which you can then reduce the amount of $REN in section 1 or increase Artifacts probability in section 2.  Simply select the checkbox prior to clicking on **Send Crusade** or **Return from Crusades** if you want to use $MOON.
 
 {% hint style="info" %}
 Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost more than once or increase the probability more than once per Crusade. You will be able to send multiple Elves and use $MOON in one TX.
