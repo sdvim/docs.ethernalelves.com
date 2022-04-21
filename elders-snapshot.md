@@ -2,7 +2,7 @@
 description: Crusades, Artifacts, Snapshot
 ---
 
-# Updates
+# Elders Snapshot&#x20;
 
 ### **Overview**
 
@@ -27,24 +27,6 @@ Sentinels will receive **scrolls** based on their Elder eligibility, sacrifice $
 \
 1 Scroll = 1 Crusade (For Sentinels Only)\
 7 Artifacts = 1 Elder (Initial Mint)
-
-### **Artifacts**
-
-There will be 5 types of Artifacts
-
-* Vines
-* Relics
-* Magma
-* Rime
-* Groves
-
-{% hint style="info" %}
-Artifact type names may be subject to change
-{% endhint %}
-
-The type will have no effect when minting Elders, however, it will play a factor in what type of Armor you can upgrade to in the future as well as unlocking special abilities.\
-\
-Artifacts will be a tradable (ERC721) non-fungible token. In theory, even if you are not going on Crusades, you can purchase Artifacts on the secondary to mint an Elder.  During the initial supply of Elders, you will still need a Sentinel when you go to the summoning ground.  Sentinels will require 7 Artifacts to mint 1 Elder.&#x20;
 
 ### **Snapshot**
 
@@ -112,8 +94,39 @@ Distribution Example
 | <p> </p><p>37-43</p><p> </p>       | <p> </p><p>42</p><p> </p>                    | <p> </p><p>6</p><p> </p>               |
 | <p> </p><p>44-49</p><p> </p>       | <p> </p><p>49</p><p> </p>                    | <p> </p><p>7</p><p> </p>               |
 
+
+
 {% hint style="info" %}
 Did not include distribution for wallets holding 50+ Sentinels
 {% endhint %}
 
-You will receive a specific number of Scrolls to go on Crusades depending on how many Elders you are eligible for. Since you need 7 Artifacts to mint an Elder, if you are eligible for 2 Elders, you will get at least 14 Scrolls. Lastly, there will be a 3rd and final snapshot for new holders.
+Group 3
+
+* &#x20;Wallet Holder Date - March 5, 2022 to April 16, 2022
+* Elder Count Date – April 16, 2022
+* \~40 Eligible Elders
+* Wallets that were not included on the Group 1 or Group 2 snapshot but are a new entry on the Group 3 all received Scrolls
+
+Examples:
+
+a) If you had 2 Sentinels on March 5 and had 10 on April 16, you would be eligible for 1 Elder
+
+b) If you had 20 Sentinels on March 5 and had 10 on April 16, you would be eligible for 0 Elder versus 3.\
+\
+Distribution Example
+
+| <p> </p><p># of Tokens</p><p> </p> | <p> </p><p># Of Scrolls/Crusades</p><p> </p> | <p> </p><p>Eligible Elders</p><p> </p> |
+| ---------------------------------- | -------------------------------------------- | -------------------------------------- |
+| 1                                  | <p> </p><p>3</p><p> </p>                     | <p> </p><p>-</p><p> </p>               |
+| <p> </p><p>2</p>                   | <p> </p><p>4</p>                             | <p> </p><p>-</p><p> </p>               |
+| <p> </p><p>3</p><p> </p>           | 5                                            | <p> </p><p>-</p><p> </p>               |
+| <p> </p><p>4-10</p><p> </p>        | <p> </p><p>7</p><p> </p>                     | 1                                      |
+| <p> </p><p>11-19</p><p> </p>       | 14                                           | <p> </p><p>2</p><p> </p>               |
+| <p> </p><p>20+</p><p> </p>         | <p> </p><p>21</p>                            | <p>3</p><p> </p>                       |
+
+{% hint style="info" %}
+Did not include distribution for wallets holding 50+ Sentinels
+{% endhint %}
+
+You will receive a specific number of Scrolls to go on Crusades depending on how many Elders you are eligible for. Since you need 7 Artifacts to mint an Elder, if you are eligible for 2 Elders, you will get at least 14 Scrolls.
+
