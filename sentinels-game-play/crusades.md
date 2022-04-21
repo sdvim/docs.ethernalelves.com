@@ -11,7 +11,7 @@ With the sacrifice of $REN Sentinels will go on a long journey to acquire Artifa
 \
 Artifacts will be a tradable (ERC721) non-fungible token. In theory, even if you are not going on Crusades, you can purchase Artifacts on the secondary to mint an Elder.  During the initial supply of Elders, you will still need a Sentinel when you go to the summoning ground.  Sentinels will require 7 Artifacts to mint 1 Elder.&#x20;
 
-Crusades will be completed "in-game" which is on Polygon.  You will need to bridge Artifacts to ETH like how you would bridge REN to ETH if you want to mint an Ethernal Elves NFT. &#x20;
+Crusades will be completed "in-game" which is on Polygon.  Once you complete a Crusade, you will Return from Crusade to receive your reward, an Artifact for Sentinels, Resources for Elders.  The reward will be "in-game" balance and not in your wallet.   You will need to bridge Artifacts to ETH like how you would bridge REN to ETH if you want to mint an Ethernal Elves NFT. &#x20;
 
 The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.\
 
