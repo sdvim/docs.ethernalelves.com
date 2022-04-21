@@ -33,7 +33,7 @@ You will notice a checkbox in each section above which you can then reduce the a
 Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost more than once or increase the probability more than once per Crusade. You will be able to send multiple Elves and use $MOON in one TX.
 {% endhint %}
 
-**How To Go on Crusades**
+### **How To Go on Crusades**
 
 **Step 1:** Go to the Web App (dApp) on Gasless Gameplay.  Select Actions
 
@@ -66,6 +66,34 @@ Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost
 **Final:** Review information and then click on **SEND CRUSADE** to confirm tx
 
 ![](<../.gitbook/assets/Send Crusades.png>)
+
+### **How To Return From Crusades**
+
+**Step 1:** Go to the Web App (dApp) on Gasless Gameplay.  Select Actions
+
+![](../.gitbook/assets/Step1Crusades.png)
+
+**Step 2:** Dropdown will occur, select Crusades
+
+![](../.gitbook/assets/Step2Crusades.png)
+
+
+
+**Step 3:**  Make sure **RETURN FROM CRUSADE** tab is selected
+
+![](../.gitbook/assets/Step1ReturnFromCrusades.png)
+
+**Step 4:** Select your Elves you to RETURN
+
+![](../.gitbook/assets/ReturnFromCrusades\_SelectElves.png)
+
+**Step 5:** If you want to use $MOON, do not skip this step, select the checkmark if you want to use $MOON, leave unchecked if you do not want to use $MOON. This step will increase the probability to receive two (2) Artifacts&#x20;
+
+![](../.gitbook/assets/ReturnFromCrusades\_UseMOON.png)
+
+**Final:** Review information and then click on **RETURN CRUSADE** to confirm tx
+
+![](../.gitbook/assets/ReturnFromCrusades\_Confirm.png)
 
 ### Overview
 
