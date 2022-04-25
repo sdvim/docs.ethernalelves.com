@@ -8,6 +8,7 @@
 * [Minting](about/minting.md)
 * [FAQ](about/faq.md)
 * [Discord Bot Commands](about/discord-bot-commands.md)
+* [Game Guide](about/game-guide.md)
 
 ## Elves
 
