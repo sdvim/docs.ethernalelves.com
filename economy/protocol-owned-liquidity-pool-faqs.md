@@ -98,17 +98,13 @@ After the approval completes, you should see two buttons, “To Game” and “T
 
 &#x20;Visit [WETH/pREN LP](https://app.sushi.com/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0xA2eCFEBe618E906) on Sushiswap, input an equal value of ETH and $REN. This link will show something like the following image, where assets can be added to the LP:
 
-![](../.gitbook/assets/12.png)
-
-&#x20;
+![](../.gitbook/assets/SSLiq.png)
 
 1. Enter the amount of WETH
 2. Enter the amount of pREN equivalent
-3. Approve BentoBox, this will prompt web3/Metamask for you to confirm
-4. Approve WETH, this will prompt web3/Metamask for you to confirm
-5. Approve pREN, this will prompt web3/Metamask for you to confirm
-6. Confirm Despoit, this will prompt web3/Metamask for you to confirm and you will be redirected to the image below &#x20;
-7. Review information and press Confirm Deposit.
+3. Approve WETH, this will prompt web3/Metamask for you to confirm
+4. Approve pREN, this will prompt web3/Metamask for you to confirm
+5. Click Add Liquidity
 
 {% hint style="info" %}
 Once the transaction is completed, you can review your transaction the blockchain
