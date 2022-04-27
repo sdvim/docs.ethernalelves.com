@@ -98,6 +98,10 @@ After the approval completes, you should see two buttons, “To Game” and “T
 
 &#x20;Visit [WETH/pREN LP](https://app.sushi.com/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0xA2eCFEBe618E906) on Sushiswap, input an equal value of ETH and $REN. This link will show something like the following image, where assets can be added to the LP:
 
+{% hint style="info" %}
+DO NOT USE ANY OTHER PAIR, IF YOU USE USDT, USDC ETC.  YOU WILL LOSE YOUR TOKENS.  USE WETH.
+{% endhint %}
+
 ![](../.gitbook/assets/SSLiq.png)
 
 1. Enter the amount of WETH
