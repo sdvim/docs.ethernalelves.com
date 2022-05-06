@@ -6,21 +6,11 @@ description: Sentinels do not always have to fight.
 
 Receive $REN after staking Sentinels for a certain amount of days.
 
-#### Sentinels:
+#### Passive Mode Rewards
 
-Passive Mode Rewards
+**Daly REN Rewards**
 
-
-
-
-
-| Weapon Tier | Base Rewards | Level Tier Multiplier | Total Daily Rewards |
-| ----------- | ------------ | --------------------- | ------------------- |
-| 1           | 10           | 1.0                   | 10                  |
-| 2           | 12           | 1.2                   | 14                  |
-| 3           | 14           | 1.4                   | 20                  |
-| 4           | 18           | 1.6                   | 28                  |
-| 5           | 24           | 1.8                   | 42                  |
+![](../.gitbook/assets/image.png)
 
 | Level Tier | Starting Level | Ending Level |
 | ---------- | -------------- | ------------ |
@@ -34,7 +24,7 @@ Passive Mode Rewards
 
 #### OLD  Rewards based on days staked:
 
-(discontinued after May 9th, you will not be able to send any new transactions in Passive Mode.  However, you may return at anytime.
+(discontinued after May 9th, you will not be able to send any new transactions in Passive Mode.  However, you may return at any time.
 
 | 0-6 days   | 0 $REN    |
 | ---------- | --------- |
