@@ -8,9 +8,33 @@ Receive $REN after staking Sentinels for a certain amount of days.
 
 #### Sentinels:
 
-* Level up once per day staked
+Passive Mode Rewards
 
-#### &#x20;Rewards based on days staked:
+
+
+
+
+| Weapon Tier | Base Rewards | Level Tier Multiplier | Total Daily Rewards |
+| ----------- | ------------ | --------------------- | ------------------- |
+| 1           | 10           | 1.0                   | 10                  |
+| 2           | 12           | 1.2                   | 14                  |
+| 3           | 14           | 1.4                   | 20                  |
+| 4           | 18           | 1.6                   | 28                  |
+| 5           | 24           | 1.8                   | 42                  |
+
+| Level Tier | Starting Level | Ending Level |
+| ---------- | -------------- | ------------ |
+| 1          | 1              | 20           |
+| 2          | 21             | 40           |
+| 3          | 41             | 60           |
+| 4          | 61             | 80           |
+| 5          | 81             | 100          |
+
+#### If your Weapon Tier is 3 and you are level 100, you will earn \~24 $REN per day&#x20;
+
+#### OLD  Rewards based on days staked:
+
+(discontinued after May 9th, you will not be able to send any new transactions in Passive Mode.  However, you may return at anytime.
 
 | 0-6 days   | 0 $REN    |
 | ---------- | --------- |

@@ -25,6 +25,7 @@
 * [Liquidity Pools](economy/liquidity-pool.md)
 * [Protocol Owned Liquidity Pool FAQ's](economy/protocol-owned-liquidity-pool-faqs.md)
 * [The Elven Wallet](economy/the-elven-wallet.md)
+* [Artifacts](economy/artifacts.md)
 
 ## Sentinels Game Play
 

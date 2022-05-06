@@ -6,7 +6,7 @@ Players have different strategies and resources that they can put into play base
 
 ### Different modes for different goals
 
-Want the most hands off approach to accumulate $REN and level up your Sentinels? Try _Passive_.
+Want the most hands off approach to accumulate $REN? Try _Passive_.
 
 {% content-ref url="passive.md" %}
 [passive.md](passive.md)
