@@ -6,23 +6,13 @@ description: Sentinels do not always have to fight.
 
 Receive $REN after staking Sentinels for a certain amount of days.
 
-#### Passive Mode Rewards
+#### Passive Mode Rewards (Polygon)
 
-**Daly REN Rewards**
+![Daily REN Rewards](<../.gitbook/assets/image (2).png>)
 
-![](../.gitbook/assets/image.png)
+#### (OLD)  Rewards based on days staked Ethereum:
 
-| Level Tier | Starting Level | Ending Level |
-| ---------- | -------------- | ------------ |
-| 1          | 1              | 20           |
-| 2          | 21             | 40           |
-| 3          | 41             | 60           |
-| 4          | 61             | 80           |
-| 5          | 81             | 100          |
-
-#### OLD  Rewards based on days staked:
-
-(discontinued after May 9th, you will not be able to send any new transactions in Passive Mode.  However, you may return at any time.
+(discontinued after May 9th, you will not be able to send any new transactions in Passive Mode on Ethereum.  However, you may return at any time.
 
 | 0-6 days   | 0 $REN    |
 | ---------- | --------- |
