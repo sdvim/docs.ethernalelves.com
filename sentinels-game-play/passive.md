@@ -8,7 +8,7 @@ Receive $REN after staking Sentinels for a certain amount of days.
 
 #### Passive Mode Rewards (Polygon)
 
-![Daily REN Rewards](<../.gitbook/assets/image (2).png>)
+![Daily REN Rewards](<../.gitbook/assets/image (2) (1).png>)
 
 #### (OLD)  Rewards based on days staked Ethereum:
 
