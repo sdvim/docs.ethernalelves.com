@@ -9,14 +9,10 @@ With the sacrifice of $REN Sentinels will go on a long journey to acquire Artifa
 ****\
 ****Scrolls will be available to purchase on May 9th 2022.  See table below for $REN cost
 
-****
-
 | Scroll Supply | REN Cost |
 | ------------- | -------- |
 | 2,000         | 750      |
 | 2,000         | 1,500    |
-
-
 
 ### **Artifacts**&#x20;
 
