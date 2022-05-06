@@ -2,27 +2,21 @@
 
 ### **Sentinels**
 
-\
-With the sacrifice of $REN Sentinels will go on a long journey to acquire Artifacts.  Artifacts is a key component to releasing an Elder. Sentinels will need one Scroll to go on one Crusade.  Scrolls are not tradable and the amount received is determined by a stealth snapshot. If you have a Sentinel returning from a Crusade, you can send that Sentinel back out on a Crusade as long as that Sentinel has a Scroll. &#x20;
+With the sacrifice of $REN, Sentinels will go on a long journey to acquire Artifacts. Artifacts are a key component to releasing an Elder. Sentinels will need one Scroll to go on one Crusade.  Scrolls are not tradable and the amount received is determined by a stealth snapshot. If you have a Sentinel returning from a Crusade, you can send that Sentinel back out on a Crusade as long as you have Scrolls in your Elven Wallet. &#x20;
 
 **Purchase Scrolls**\
-****\
-****Scrolls will be available to purchase on May 9th 2022.  See table below for $REN cost
+****Additional Scrolls will be available to purchase from May 9th 2022.  See the table below.&#x20;
 
-| Scroll Supply | REN Cost |
-| ------------- | -------- |
-| 2,000         | 750      |
-| 2,000         | 1,500    |
+| Scroll Supply    | $REN  |
+| ---------------- | ----- |
+| Tranche 1: 2,000 | 750   |
+| Tranche 2: 2,000 | 1,500 |
 
 ### **Artifacts**&#x20;
 
-\
-Artifacts will be a tradable (ERC721) non-fungible token. In theory, even if you are not going on Crusades, you can purchase Artifacts on the secondary to mint an Elder.  During the initial supply of Elders, you will still need a Sentinel when you go to the summoning ground.  Sentinels will require 7 Artifacts to mint 1 Elder.&#x20;
+Once you complete a Crusade, you need to "Return from Crusade" to receive your reward. The reward will be "in-game" balance. You can mint your Artifact from the Elven Wallet on May 9th.&#x20;
 
-Crusades will be completed "in-game" which is on Polygon.  Once you complete a Crusade, you will Return from Crusade to receive your reward, an Artifact for Sentinels, Resources for Elders.  The reward will be "in-game" balance and not in your wallet.   You will need to bridge Artifacts to ETH like how you would bridge REN to ETH if you want to mint an Ethernal Elves NFT. &#x20;
-
-The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.\
-
+The length of Crusades will depend on your level.  The amount of Artifacts received is fair for all Sentinels.  You will receive an Artifact **after** you completed the Crusade.
 
 ### **$MOON Utility**
 
@@ -114,24 +108,3 @@ Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost
 | Level 1-69   | 9    |
 | Level 70-98  | 7    |
 | Level 99-100 | 5    |
-
-### Artifacts Mint Date
-
-Mint Artifacts:  May 9, 2022 at 2PM GMT, 10AM EST
-
-### **Initial Elders Mint**
-
-There will be an initial mint date to mint Elders.  Even if you acquired enough Artifacts to mint an Elder, you will have to wait until the initial mint date.\
-\
-\
-Elders Crusades will open up shortly after to acquire Artifacts and mint the remaining Elders.
-
-**Approximate Mint Date:** \
-Mint Elders with Artifacts: June 3, 2022\
-\
-Elders Mint Price: 7 Artifacts\
-
-
-{% hint style="info" %}
-Dates may come earlier, after the phase of Minting Elders with Artifacts occur. Elders will be able to acquire Resources to convert into Artifacts to Mint additional Elders
-{% endhint %}
