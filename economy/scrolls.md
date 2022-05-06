@@ -8,7 +8,7 @@ description: What are artifacts and how are they used in the Ethernal Elves Ecos
 
 ![](../.gitbook/assets/scroll.png)
 
-Scrolls are parchments containing secrets, like recipes for crafting items, weapons, and armor. Scrolls may also contain the location of artifacts.
+Scrolls are parchments containing secrets, like the location of artifacts.
 
 Scrolls were airdropped to existing holders leading up to the Awakening of The Elders. Scrolls may be purchased for REN from time to time through the Elven Wallet
 
