@@ -3,7 +3,19 @@
 ### **Sentinels**
 
 \
-With the sacrifice of $REN Sentinels will go on a long journey to acquire Artifacts.  Artifacts is a key component to releasing an Elder. Sentinels will need one Scroll to go on one Crusade.  Scrolls are not tradable and the amount received is determined by a stealth snapshot. If you have a Sentinel returning from a Crusade, you can send that Sentinel back out on a Crusade as long as that Sentinel has a Scroll.  \
+With the sacrifice of $REN Sentinels will go on a long journey to acquire Artifacts.  Artifacts is a key component to releasing an Elder. Sentinels will need one Scroll to go on one Crusade.  Scrolls are not tradable and the amount received is determined by a stealth snapshot. If you have a Sentinel returning from a Crusade, you can send that Sentinel back out on a Crusade as long as that Sentinel has a Scroll. &#x20;
+
+**Purchase Scrolls**\
+****\
+****Scrolls will be available to purchase on May 9th 2022.  See table below for $REN cost
+
+****
+
+| Scroll Supply | REN Cost |
+| ------------- | -------- |
+| 2,000         | 750      |
+| 2,000         | 1,500    |
+
 
 
 ### **Artifacts**&#x20;
@@ -107,16 +119,18 @@ Note: You can do one $MOON enhancement at a time. You cannot reduce the REN cost
 | Level 70-98  | 7    |
 | Level 99-100 | 5    |
 
+### Artifacts Mint Date
+
+Mint Artifacts:  May 9, 2022 at 2PM GMT, 10AM EST
+
 ### **Initial Elders Mint**
 
 There will be an initial mint date to mint Elders.  Even if you acquired enough Artifacts to mint an Elder, you will have to wait until the initial mint date.\
 \
-Initial Mint Date - Late May/Early June\
 \
 Elders Crusades will open up shortly after to acquire Artifacts and mint the remaining Elders.
 
-**Approximate Mint Dates:** \
-****Mint Artifacts:  May 16, 2022\
+**Approximate Mint Date:** \
 Mint Elders with Artifacts: June 3, 2022\
 \
 Elders Mint Price: 7 Artifacts\
