@@ -8,6 +8,8 @@ A Whitepaper Draft has been published in the discord, a full Whitepaper will be 
 
 You will need 7 Artifacts to mint 1 Elder, see below for the instructions
 
+### Part 1
+
 **Make sure you have Artifacts In-game**&#x20;
 
 1. Go to [https://app.ethernalelves.com/play](https://app.ethernalelves.com/play) and click on **WALLET.** A modal will popup and you will see a list of all your resources and tokens.&#x20;
@@ -18,6 +20,10 @@ You will want your Artifacts "In Wallet", see the image  in the red rectangle ab
 
 \
 [https://docs.ethernalelves.com/economy/artifacts#mint-artifacts](https://docs.ethernalelves.com/economy/artifacts#mint-artifacts)\
+
+
+### Part 2
+
 \
 2\. Go back to [https://app.ethernalelves.com/play](https://app.ethernalelves.com/play) and click on **ELDERS**
 
