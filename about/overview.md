@@ -54,8 +54,8 @@ REN is the in-game currency that drives the entire ecosystem and will be needed 
 
 #### Elders can enter:
 
-* Crusades - Collect Resources and Artifacts
-* Training Grounds- Increases levels and you get to choose which stats you want to increase.
-* Crafting **-** Use Resources to Craft Weapons, Armor, & Items
-* Battlegrounds - Compete with other players in RTS Games
-* Questing - Use Resources to learn special abilities&#x20;
+* **Crusades** - Collect Resources and Artifacts
+* **Training Grounds**- Increases levels and you get to choose which stats you want to increase.
+* **Crafting** **-** Use Resources to Craft Weapons, Armor, & Items
+* **Battlegrounds** - Compete with other players in RTS Games
+* **Questing** - Use Resources to learn special abilities&#x20;
