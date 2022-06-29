@@ -24,10 +24,6 @@ Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels mint
 * [**Rampage**](../sentinels-game-play/rampage.md) - sacrifice $REN to earn weapons, other rare gear, and level up
 * **Crusades** - sacrifice $REN to earn Artifacts to mint Elders and future collections
 
-{% hint style="warning" %}
-**Note:** Crusades for Sentinels will cease to exist after initial mint of Elders. Similar to an initial mint with ETH, then using a Artifacts to mint the remaining supply of Elders.
-{% endhint %}
-
 ### Gasless Gameplay&#x20;
 
 * ****[**Layer 2**](polygon-gameplay.md) - assets remain on Ethereum (Mainnet), gameplay occurs on Polygon
