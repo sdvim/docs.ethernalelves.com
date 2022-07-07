@@ -13,10 +13,8 @@ Elders have certain Energy limitations which will need a specific amount prior t
 | <p> </p><p>5</p><p> </p>                     | <p> </p><p>4,001</p><p> </p>                       | <p> </p><p>99,999</p><p> </p>                      | 0.160     |
 
 {% hint style="info" %}
-\*Ratio column is used to determine the REN Cost
+Ratio column is used to determine the REN Cost
 {% endhint %}
-
-**Sacred Well**
 
 Elders have certain Energy limitations which will need a specific amount prior to completing game actions/functions.  They will replenish their Energy by going to the Sacred Well.
 
