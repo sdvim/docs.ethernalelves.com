@@ -39,6 +39,8 @@
 
 ## Elders Game Play
 
+* [Overview](elders-game-play/overview.md)
+* [Sacred Well](elders-game-play/sacred-well.md)
 * [Crusades](elders-game-play/crusades.md)
 
 ***
