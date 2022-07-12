@@ -9,15 +9,10 @@ description: Commands that can be called from within the Ethernal Elves Discord 
 You can use the following commands in the dapp bot commands channel:
 
 ```
-!artifacts
-!artifacts [wallet address]
 !burn 
 !burn [wallet address]
-!degen [actionIndex]
-!degen [actionIndex] daily
 !ens [wallet Address]
 !elf [tokenId]
-!me [tokenId] [actionIndex]
 !items [itemIndex]
 
 //dont include [] when passing a parameter

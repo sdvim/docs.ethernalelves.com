@@ -4,7 +4,6 @@
 
 * [Storyline](README.md)
 * [Overview](about/overview.md)
-* [Polygon Gameplay](about/polygon-gameplay.md)
 * [Minting](about/minting.md)
 * [FAQ](about/faq.md)
 * [Discord Bot Commands](about/discord-bot-commands.md)
@@ -44,10 +43,11 @@
 * [Training Grounds](elders-game-play/training-grounds.md)
 * [Crusades](elders-game-play/crusades.md)
 
-***
-
-* [Elders Snapshot ](elders-snapshot.md)
-
 ## Developer
 
 * [Architecture](developer/architecture.md)
+
+## Archived
+
+* [Polygon Gameplay](archived/polygon-gameplay.md)
+* [Elders Snapshot ](archived/elders-snapshot.md)
