@@ -26,7 +26,7 @@ Initial mint of 3,300 Sentinels at 0.08 ETH each, remaining 3,366 Sentinels mint
 
 ### Gasless Gameplay&#x20;
 
-* ****[**Layer 2**](../archived/polygon-gameplay.md) - assets remain on Ethereum (Mainnet), gameplay occurs on Polygon
+* ****[**Layer 2**](polygon-gameplay.md) - assets remain on Ethereum (Mainnet), gameplay occurs on Polygon
 
 {% hint style="info" %}
 **Note:** Future Phases may be subject to change

@@ -49,5 +49,5 @@
 
 ## Archived
 
-* [Polygon Gameplay](archived/polygon-gameplay.md)
-* [Elders Snapshot ](archived/elders-snapshot.md)
+* [Polygon Gameplay](about/polygon-gameplay.md)
+* [Elders Snapshot ](elders-snapshot.md)

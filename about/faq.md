@@ -2,11 +2,11 @@
 
 ### What kind of NFT Project is Ethernal Elves?
 
-Ethernal Elves is an on-chain NFT Game where you play to mint and earn new NFTs and in-game utility tokens. We strive to add a unique and fun experience for NFT enthusiasts.
+Ethernal Elves is an NFT Game where you play to mint and earn new NFTs and in-game utility tokens. We strive to add a unique and fun experience for NFT enthusiasts.
 
 ### What is on-chain?
 
-Simply put, on-chain is where the NFT and Metadata is stored on the Blockchain, forever, as long as the blockchain exists. Whereas other projects may use IPFS and APIs. Using IPFS and APIs is great for scalability but they do not permanently live on the blockchain which may cause issues of who actually owns the NFT.
+Simply put, on-chain is where the NFT and Metadata is stored on the Blockchain, forever, as long as the blockchain exists. As of June 2022, gameplay takes place offchain, while token metadata remains on chain when a player exits the game.
 
 ### Do the Sentinels have utility?
 
