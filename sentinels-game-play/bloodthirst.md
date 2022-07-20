@@ -23,7 +23,7 @@ $REN earned is proportional to a Sentinel's weapon tier.
 | Tier 5 | 110 $REN |
 
 {% hint style="warning" %}
-**Note:** All Sentinels can enter Bloodthirst mode, but only those with strong enough weapons will be rewarded! For Sentinels with weak weapons, consider rerolling through [campaigns](campaigns.md) or [forging](../elves/weapons.md).
+**Note:** All Sentinels can enter Bloodthirst mode, but only those with strong enough weapons will be rewarded! For Sentinels with weak weapons, consider rerolling through [campaigns](../archived/campaigns.md) or [forging](../elves/weapons.md).
 {% endhint %}
 
 ### Cooldown time

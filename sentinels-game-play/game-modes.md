@@ -14,8 +14,8 @@ Want the most hands off approach to accumulate $REN? Try _Passive_.
 
 Looking to level up, find new weapons, use items, and instantly earn $REN? You'll like _Campaigns_.
 
-{% content-ref url="campaigns.md" %}
-[campaigns.md](campaigns.md)
+{% content-ref url="../archived/campaigns.md" %}
+[campaigns.md](../archived/campaigns.md)
 {% endcontent-ref %}
 
 Have great weapons and want to go all in on getting $REN? _Bloodthirst_ is for you.

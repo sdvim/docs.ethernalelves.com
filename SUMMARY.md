@@ -4,7 +4,6 @@
 
 * [Storyline](README.md)
 * [Overview](about/overview.md)
-* [Minting](about/minting.md)
 * [FAQ](about/faq.md)
 * [Discord Bot Commands](about/discord-bot-commands.md)
 * [Game Guide](about/game-guide.md)
@@ -31,7 +30,6 @@
 
 * [Game Modes](sentinels-game-play/game-modes.md)
 * [Passive](sentinels-game-play/passive.md)
-* [Campaigns](sentinels-game-play/campaigns.md)
 * [Bloodthirst](sentinels-game-play/bloodthirst.md)
 * [Rampage](sentinels-game-play/rampage.md)
 * [Crusades](sentinels-game-play/crusades.md)
@@ -51,3 +49,5 @@
 
 * [Polygon Gameplay](about/polygon-gameplay.md)
 * [Elders Snapshot ](elders-snapshot.md)
+* [Campaigns](archived/campaigns.md)
+* [Minting](archived/minting.md)

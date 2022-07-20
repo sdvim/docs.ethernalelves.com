@@ -20,7 +20,7 @@ The greatest impact stats have are on calculating [cooldowns ](cooldowns.md)for 
 
 #### **Levels**
 
-Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../sentinels-game-play/campaigns.md).
+Leveling up gives Sentinels access to stronger [weapons](weapons.md) and harder [campaigns](../archived/campaigns.md).
 
 #### Attack points
 
