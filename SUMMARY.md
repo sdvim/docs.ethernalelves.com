@@ -40,6 +40,7 @@
 * [Sacred Well](elders-game-play/sacred-well.md)
 * [Training Grounds](elders-game-play/training-grounds.md)
 * [Crusades](elders-game-play/crusades.md)
+* [Boss Battles](elders-game-play/boss-battles.md)
 
 ## Developer
 
