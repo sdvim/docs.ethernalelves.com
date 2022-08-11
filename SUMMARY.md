@@ -36,6 +36,7 @@
 
 ## Elders Game Play
 
+* [Patches](elders-game-play/patches.md)
 * [Overview](elders-game-play/overview.md)
 * [Sacred Well](elders-game-play/sacred-well.md)
 * [Training Grounds](elders-game-play/training-grounds.md)
