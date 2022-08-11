@@ -1,4 +1,4 @@
-# Patches
+# Game Update & Patches
 
 <details>
 
