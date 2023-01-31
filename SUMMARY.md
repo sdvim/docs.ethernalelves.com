@@ -43,6 +43,12 @@
 * [Crusades](elders-game-play/crusades.md)
 * [Boss Battles](elders-game-play/boss-battles.md)
 
+## Settlement
+
+* [Storyline](settlement/storyline.md)
+* [Overview](settlement/overview.md)
+* [Guide](settlement/guide.md)
+
 ## Developer
 
 * [Architecture](developer/architecture.md)
