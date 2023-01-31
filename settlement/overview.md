@@ -8,13 +8,16 @@ There are three ways you can/could have currently acquire Artifacts and Resource
 
 * Crusades
 * Boss Battles
-*   Purchase from the Secondary Market
+* Purchase from the Secondary Market
+  * Artifacts on [Opensea](https://opensea.io/collection/ethernalelves-artifacts) (Ethereum)
+  * Resources on [Opensea](https://opensea.io/collection/ethernalelves-loot) (Polygon)\
 
-    * Artifacts on [Opensea](https://opensea.io/collection/ethernalelves-artifacts) (Ethereum)
-    * Resources on [Opensea](https://opensea.io/collection/ethernalelves-loot) (Polygon)
 
-    \
 
+
+{% hint style="info" %}
+If you have Artifacts in-game from Crusades or Boss Battle.  You must send Artifacts from your [Elven Wallet](../economy/the-elven-wallet.md#withdraw-to-wallet) to Web3 Wallet
+{% endhint %}
 
 In Phase 1, you will decide two layers of your land, Primary Biomes and Secondary Biomes.
 
