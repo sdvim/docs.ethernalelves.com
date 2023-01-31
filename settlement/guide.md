@@ -1,5 +1,19 @@
 # Guide
 
+#### Here's an interactive tutorial
+
+_\*\* Best experienced in Full Screen (click the icon in the top right corner before you begin) \*\*_
+
+[https://www.iorad.com/player/2131461/Settlements---Guide?iframeHash=trysteps-1](https://www.iorad.com/player/2131461/Settlements---Guide?iframeHash=trysteps-1)
+
+\
+\
+Next step\
+\
+[![Go Live](https://www.iorad.com/golive.svg)](http://ior.ad/live/8Wup)
+
+**See below for full instructions**
+
 1\. Visit [https://app.ethernalelves.com/play](https://app.ethernalelves.com/play) and click Settlements\
 \
 MAKE SURE YOU ARE ON ETHERUM NETWORK\
@@ -92,14 +106,4 @@ Stand Ready...\
 
 ![Step 19 image](https://www.iorad.com/api/tutorial/stepScreenshot?tutorial\_id=2131461\&step\_number=19\&width=800\&height=600\&mobile\_width=450\&mobile\_height=400\&apply\_resize=true\&min\_zoom=0.5)
 
-#### Here's an interactive tutorial
-
-_\*\* Best experienced in Full Screen (click the icon in the top right corner before you begin) \*\*_
-
-[https://www.iorad.com/player/2131461/Settlements---Guide?iframeHash=trysteps-1](https://www.iorad.com/player/2131461/Settlements---Guide?iframeHash=trysteps-1)
-
-\
-\
-Next step\
-\
-[![Go Live](https://www.iorad.com/golive.svg)](http://ior.ad/live/8Wup)
+####
