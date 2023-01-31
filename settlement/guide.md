@@ -12,7 +12,9 @@ Next step\
 \
 [![Go Live](https://www.iorad.com/golive.svg)](http://ior.ad/live/8Wup)
 
-**See below for full instructions**
+
+
+**Here is a full guide with screenshots**
 
 1\. Visit [https://app.ethernalelves.com/play](https://app.ethernalelves.com/play) and click Settlements\
 \
@@ -100,10 +102,19 @@ THIS MAY TAKE UP TO 10 MINUTES, PLEASE BE PATIENT\
 
 19\. The sub navigation allows you to customize the appearance of your Biomes.\
 \
-Stand Ready...\
-\
-!onward
+
 
 ![Step 19 image](https://www.iorad.com/api/tutorial/stepScreenshot?tutorial\_id=2131461\&step\_number=19\&width=800\&height=600\&mobile\_width=450\&mobile\_height=400\&apply\_resize=true\&min\_zoom=0.5)
+
+20\. Click Save and a modal will popup stating how many Resources will be needed to build.
+
+![Step 20 image](https://www.iorad.com/api/tutorial/stepScreenshot?tutorial\_id=2131461\&step\_number=20\&width=800\&height=600\&mobile\_width=450\&mobile\_height=400\&apply\_resize=true\&min\_zoom=0.5)
+
+21\. Review the popup carefully and Click Confirm\
+\
+Enjoy creating your Settlement!\
+
+
+![Step 21 image](https://www.iorad.com/api/tutorial/stepScreenshot?tutorial\_id=2131461\&step\_number=21\&width=800\&height=600\&mobile\_width=450\&mobile\_height=400\&apply\_resize=true\&min\_zoom=0.5)
 
 ####
