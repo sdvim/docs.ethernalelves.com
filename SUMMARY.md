@@ -17,6 +17,10 @@
 * [Items](elves/items.md)
 * [Uniques](elves/uniques.md)
 
+## Ether Orcs
+
+* [Genesis Orcs](ether-orcs/genesis-orcs.md)
+
 ## Game Economy <a href="#economy" id="economy"></a>
 
 * [Tokenomics](economy/miren.md)
