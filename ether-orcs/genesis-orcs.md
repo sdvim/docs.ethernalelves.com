@@ -34,6 +34,7 @@ EtherOrcs can do the following:
 2. Visit the[ Sacred Well](../elders-game-play/sacred-well.md): The sacred well replenishes your energy and repairs weapons. You can use REN or ZUG here. Your energy expenditure is determined by your Mana and Health Points.
 3. Craft Items: You can craft items that will help you in battle. You need resources for crafting.
 4. Mint Settlements: You can mint Settlements and build settlements on them. You will have Orc settlements to build when they are ready.
+5. Farming: Orcs can farm for ZUG. 4 ZUG + ZugBonus per day. ZUG can only be used within Ethernal Elves and cannot be withdrawn from the game.
 
 ### pZug Integration&#x20;
 
