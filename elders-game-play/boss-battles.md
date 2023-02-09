@@ -54,7 +54,7 @@ Armor: Increases in XP when it takes a hit and adds additional HP
 Weapons: Increase in XP when they land damage on the creature
 
 {% hint style="danger" %}
-**IF YOUR WEAPON BREAKS (DRAIN YOUR WEAPON ENERGY) YOU WILL LOSE IT**
+**IF YOUR WEAPON BREAKS (DRAIN YOUR WEAPON ENERGY) YOU WILL NOT BE ABLE TO USE IT**
 {% endhint %}
 
 &#x20;
