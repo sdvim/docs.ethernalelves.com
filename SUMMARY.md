@@ -20,6 +20,7 @@
 ## Ether Orcs
 
 * [Genesis Orcs](ether-orcs/genesis-orcs.md)
+* [FAQ](ether-orcs/faq.md)
 
 ## Game Economy <a href="#economy" id="economy"></a>
 

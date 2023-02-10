@@ -38,6 +38,10 @@ EtherOrcs can do the following:
 
 ### pZug Integration&#x20;
 
+{% hint style="danger" %}
+Once pZUG is in the game it cannot be taken out. ZUG earned in game is not an ERC20 Token, it doesn't exist on any blockchain.&#x20;
+{% endhint %}
+
 You can use pZug within Ethernal Elves in the same way we use REN. You cannot exchange REN for pZUG. You can do this by depositing pZUG into our game contract. The steps are as follows:
 
 1. Approve our wallet contract to spend your pZug. You need to be on the polygon network to do this. Dont forget to switch back to Eth.
